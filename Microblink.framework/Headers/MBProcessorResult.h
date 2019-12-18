@@ -12,22 +12,22 @@
  * Enumeration of posibble processor result state
  */
 typedef NS_ENUM(NSUInteger, MBProcessorResultState) {
-
+    
     /**
      *  Empty
      */
     MBProcessorResultStateEmpty,
-
+    
     /**
      *  Uncertain
      */
     MBProcessorResultStateUncertain,
-
+    
     /**
      *  Valid
      */
     MBProcessorResultStateValid,
-
+    
 };
 
 NS_ASSUME_NONNULL_BEGIN
@@ -45,3 +45,4 @@ MB_INIT_UNAVAILABLE
 @end
 
 NS_ASSUME_NONNULL_END
+

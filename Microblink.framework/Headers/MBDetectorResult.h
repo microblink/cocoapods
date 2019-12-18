@@ -17,12 +17,12 @@ typedef NS_ENUM(NSUInteger, MBDetectionCode) {
      * Object detection has failed.
      */
     MBDetectionCodeFail = 0,
-
+    
     /**
      * Object was detected partially. Only some PhotoPay detectors support this.
      */
     MBDetectionCodeFallback,
-
+    
     /**
      * Object detection has succeded.
      */
@@ -43,3 +43,4 @@ MB_CLASS_AVAILABLE_IOS(8.0)
 @end
 
 NS_ASSUME_NONNULL_END
+

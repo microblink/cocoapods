@@ -190,6 +190,8 @@
 // Nigeria
 #import "MBNigeriaVoterIdBackRecognizer.h"
 #import "MBNigeriaVoterIdBackRecognizerResult.h"
+#import "MBNigeriaCombinedRecognizer.h"
+#import "MBNigeriaCombinedRecognizerResult.h"
 
 // Passport
 #import "MBPassportRecognizer.h"

@@ -79,10 +79,10 @@ typedef NS_ENUM(NSUInteger, MBDocumentSpecificationPreset) {
 
     /** Preset for detecting A4 documents in landscape */
     MBDocumentSpecificationA4Landscape,
-
+    
     /** Preset for detecting vertical ID1 cards */
     MBDocumentSpecificationId1VerticalCard,
-
+    
     /** Preset for detecting vertical ID1 cards */
     MBDocumentSpecificationId2VerticalCard,
 };

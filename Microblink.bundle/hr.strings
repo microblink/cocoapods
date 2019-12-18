@@ -1,4 +1,4 @@
-/*
+/* 
   en.strings
   BlinkOCR
 
@@ -36,3 +36,4 @@
 "blinkid_too_far_error_message" = "Približite dokument";
 "blinkid_scan_unsuccessful_error_title" = "Skeniranje nije uspjelo";
 "blinkid_scan_unsuccessful_error_message" = "Dokument nije moguće očitati. Molimo pokušajte ponovno.";
+

@@ -16,7 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 MB_CLASS_AVAILABLE_IOS(8.0)
 @interface MBTapToFocusSubview : MBSubview
 /**
- * Designated initializer
+ * Designated initializer 
  *
  * @param frame - exact frame of the view
  */

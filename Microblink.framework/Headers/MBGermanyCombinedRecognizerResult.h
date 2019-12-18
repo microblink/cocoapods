@@ -103,7 +103,7 @@ MB_INIT_UNAVAILABLE
 * The surname of the Germany ID owner.
 */
 @property (nonatomic, readonly) NSString *surname;
-
+    
 /**
  * The full mrz string result.
  */

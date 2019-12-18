@@ -12,22 +12,22 @@
  * Enumeration of posibble parser result state
  */
 typedef NS_ENUM(NSUInteger, MBParserResultState) {
-
+    
     /**
      *  Empty
      */
     MBParserResultStateEmpty,
-
+    
     /**
      *  Uncertain
      */
     MBParserResultStateUncertain,
-
+    
     /**
      *  Valid
      */
     MBParserResultStateValid,
-
+    
 };
 
 NS_ASSUME_NONNULL_BEGIN

@@ -10,7 +10,7 @@
 
 #import "MBFullDocumentImageResult.h"
 
-NS_ASSUME_NONNULL_BEGIN
+NS_ASSUME_NONNULL_BEGIN 
 
 /**
  * Class representing values obtained when scanning back side of MyKad
