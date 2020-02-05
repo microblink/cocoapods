@@ -35,6 +35,16 @@ MB_INIT
  */
 @property (nonatomic, strong, readonly) MBNigeriaCombinedRecognizerResult *result;
 
+/**
+ * Defines how many times the same document should be detected before the detector
+ * returns this document as a result of the deteciton
+ *
+ * Higher number means more reliable detection, but slower processing
+ *
+ * Default: 6
+ */
+@property (nonatomic, assign) NSUInteger numStableDetectionsThreshold;
+
 @end
 
 NS_ASSUME_NONNULL_END

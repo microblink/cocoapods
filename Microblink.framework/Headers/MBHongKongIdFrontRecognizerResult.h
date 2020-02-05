@@ -58,6 +58,11 @@ MB_INIT_UNAVAILABLE
  */
 @property (nonatomic, readonly, nullable) NSString *residentialStatus;
 
+/**
+ * The name of the Hong Kong ID owner in Traditional Chinese.
+ */
+@property (nonatomic, readonly, nullable) NSString *localizedName;
+
 @end
 
 NS_ASSUME_NONNULL_END
