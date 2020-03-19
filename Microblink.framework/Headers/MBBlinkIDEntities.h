@@ -125,6 +125,10 @@
 #import "MBHongKongIdFrontRecognizer.h"
 #import "MBHongKongIdFrontRecognizerResult.h"
 
+// ID Barcode Recognizer
+#import "MBIdBarcodeRecognizer.h"
+#import "MBIdBarcodeRecognizerResult.h"
+
 // Indonesia
 #import "MBIndonesiaIdFrontRecognizer.h"
 #import "MBIndonesiaIdFrontRecognizerResult.h"
