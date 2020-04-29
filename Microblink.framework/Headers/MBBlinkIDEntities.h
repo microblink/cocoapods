@@ -155,6 +155,10 @@
 #import "MBJordanCombinedRecognizer.h"
 #import "MBJordanCombinedRecognizerResult.h"
 
+// Liveness
+//#import "MBLivenessRecognizer.h"
+//#import "MBLivenessRecognizerResult.h"
+
 // Malaysia
 #import "MBMalaysiaMyKadBackRecognizer.h"
 #import "MBMalaysiaMyKadBackRecognizerResult.h"
@@ -274,3 +278,7 @@
 // USDL
 #import "MBUsdlCombinedRecognizer.h"
 #import "MBUsdlCombinedRecognizerResult.h"
+
+// Age
+#import "MBAgeLimitStatus.h"
+#import "MBAgeResult.h"
