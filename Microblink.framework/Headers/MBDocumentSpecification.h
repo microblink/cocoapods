@@ -51,7 +51,7 @@ NS_INLINE MBScale MBMakeScale(CGFloat scale, CGFloat tolerance) {
 /**
  * Enum of different scanning modes: Landscape, Portrait and Auto(both)
  */
-typedef NS_ENUM(NSUInteger, MBScanningMode) {
+typedef NS_ENUM(NSInteger, MBScanningMode) {
 
     /** Detects document in both directions */
     MBScanningModeAuto,
@@ -64,7 +64,7 @@ typedef NS_ENUM(NSUInteger, MBScanningMode) {
 };
 
 /** Presets which can be used to instantiate document specification for a specific document format */
-typedef NS_ENUM(NSUInteger, MBDocumentSpecificationPreset) {
+typedef NS_ENUM(NSInteger, MBDocumentSpecificationPreset) {
 
     /** Preset for detecting ID1 cards */
     MBDocumentSpecificationId1Card,

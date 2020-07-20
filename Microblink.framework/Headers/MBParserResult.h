@@ -11,7 +11,7 @@
 /**
  * Enumeration of posibble parser result state
  */
-typedef NS_ENUM(NSUInteger, MBParserResultState) {
+typedef NS_ENUM(NSInteger, MBParserResultState) {
     
     /**
      *  Empty

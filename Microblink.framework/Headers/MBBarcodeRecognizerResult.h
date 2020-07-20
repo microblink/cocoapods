@@ -9,7 +9,7 @@
 
 #import "MBMicroblinkDefines.h"
 #import "MBRecognizerResult.h"
-#import "MBBarcodeResult.h"
+#import "MBBarcodeType.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

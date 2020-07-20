@@ -9,6 +9,19 @@
 // Overlays
 #import "MBBlinkCardOverlayViewController.h"
 #import "MBBlinkCardOverlaySettings.h"
+#import "MBCustomOverlayViewController.h"
 
 // Overlay subviews
 #import "MBRectDocumentSubview.h"
+#import "MBDotsSubview.h"
+#import "MBDotsResultSubview.h"
+#import "MBTapToFocusSubview.h"
+#import "MBResultSubview.h"
+#import "MBGlareStatusSubview.h"
+#import "MBOcrLayout.h"
+#import "MBOcrLayoutSubview.h"
+#import "MBOcrResultSubview.h"
+#import "MBOcrFont.h"
+
+// Logger
+#import "MBLogger.h"

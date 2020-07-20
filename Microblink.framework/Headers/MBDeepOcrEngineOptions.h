@@ -16,7 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  * Type of the document which recognizer scans
  */
-typedef NS_ENUM(NSUInteger, MBDeepOcrModel) {
+typedef NS_ENUM(NSInteger, MBDeepOcrModel) {
 
     /** Deep OCR model for Blink Input */
     MBDeepOcrModelBlinkInput

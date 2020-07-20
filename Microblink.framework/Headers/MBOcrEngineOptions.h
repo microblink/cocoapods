@@ -65,7 +65,7 @@ MB_CLASS_AVAILABLE_IOS(8.0)
 /**
  * Type of the document which recognizer scans
  */
-typedef NS_ENUM(NSUInteger, PPDocumentType) {
+typedef NS_ENUM(NSInteger, PPDocumentType) {
 
     /** Document type for latin documents used with BlinkOCR recognizer */
     PPBlinkOCRDocumentType,

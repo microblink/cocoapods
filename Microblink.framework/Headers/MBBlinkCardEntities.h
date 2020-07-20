@@ -12,3 +12,12 @@
 
 #import "MBBlinkCardEliteRecognizer.h"
 #import "MBBlinkCardEliteRecognizerResult.h"
+
+#import "MBFullDocumentImageResult.h"
+#import "MBEncodedFullDocumentImageResult.h"
+
+// Displayable Quad
+#import "MBDisplayableQuadDetection.h"
+
+// Protocols
+#import "MBQuadDetectorSubview.h"

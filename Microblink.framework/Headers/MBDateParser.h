@@ -16,7 +16,7 @@
  * English, use formats which contain MONTH, e.g. MBDateFormatDDMONTHYYYY.
  * Month names in uppercase and short month names are supported (for example March and Mar).
  */
-typedef NS_ENUM(NSUInteger, MBDateFormat) {
+typedef NS_ENUM(NSInteger, MBDateFormat) {
     MBDateFormatDDMMYYYY = 0,
     MBDateFormatDDMMYY,
     MBDateFormatMMDDYYYY,

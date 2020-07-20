@@ -14,7 +14,7 @@
 /**
  * Enumeration of posibble top up presets
  */
-typedef NS_ENUM(NSUInteger, MBTopUpPreset) {
+typedef NS_ENUM(NSInteger, MBTopUpPreset) {
     
     /** For top ups which begin with <b>*123*</b> prefix and USSD code length is <b>14</b> */
     MBTopUp123,

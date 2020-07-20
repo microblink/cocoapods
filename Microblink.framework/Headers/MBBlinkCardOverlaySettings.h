@@ -19,7 +19,7 @@ MB_CLASS_AVAILABLE_IOS(8.0) MB_FINAL
  * Returns/sets glare status message that is shown if glare detection is turned on
  * and it is shown if glare is detected.
  *
- * Default: string defined by "photopay_glare_status"
+ * Default: string defined by "mb_tooltip_glare"
  * key in strings file in Microblink.bundle
  */
 @property(nonatomic, strong) NSString *glareStatusMessage;
@@ -28,7 +28,7 @@ MB_CLASS_AVAILABLE_IOS(8.0) MB_FINAL
  * Returns/sets status message that is shows when front side of payment card
  * should be scanned.
  *
- * Default: string defined by "blink_card_front_message" key in
+ * Default: string defined by "mb_instructions_scan_front" key in
  * key in strings file in Microblink.bundle
  */
 @property(nonatomic, strong) NSString *frontSideMessage;
@@ -37,7 +37,7 @@ MB_CLASS_AVAILABLE_IOS(8.0) MB_FINAL
  * Returns/sets status message that is shows when back side of payment card
  * should be scanned.
  *
- * Default: string defined by "blink_card_back_message" key in
+ * Default: string defined by "mb_instructions_scan_back_side" key in
  * key in strings file in Microblink.bundle
  */
 @property(nonatomic, strong) NSString *backSideMessage;

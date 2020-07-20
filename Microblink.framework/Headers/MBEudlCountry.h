@@ -10,7 +10,7 @@
 /**
  * Enumeration of all supported countries in EUDL Recognizer
  */
-typedef NS_ENUM(NSUInteger, MBEudlCountry) {
+typedef NS_ENUM(NSInteger, MBEudlCountry) {
     
     /**
      * UK driver's licenses

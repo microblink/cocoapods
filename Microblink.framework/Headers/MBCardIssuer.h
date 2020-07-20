@@ -8,7 +8,7 @@
 #ifndef MBPaymentCardIssuer_h
 #define MBPaymentCardIssuer_h
 
-typedef NS_ENUM(NSUInteger, MBCardIssuer) {
+typedef NS_ENUM(NSInteger, MBCardIssuer) {
     /* Unidentified Card */
     MBCardIssuerOther = 0,
     /* The American Express Company Card */

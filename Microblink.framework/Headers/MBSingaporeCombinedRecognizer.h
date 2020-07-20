@@ -82,7 +82,7 @@ MB_INIT
 /**
  * Defines if owner's address change date should be extracted from back side of the Singapore Id
  *
- * Default: NO
+ * Default: YES
  */
 @property (nonatomic, assign) BOOL extractAddressChangeDate;
 

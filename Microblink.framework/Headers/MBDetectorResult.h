@@ -12,7 +12,7 @@
 /**
  * Enum for type of detection status.
  */
-typedef NS_ENUM(NSUInteger, MBDetectionCode) {
+typedef NS_ENUM(NSInteger, MBDetectionCode) {
     /**
      * Object detection has failed.
      */
