@@ -31,3 +31,6 @@
 #import "MBDocumentVerificationInstructionsSubview.h"
 #import "MBCameraReticle.h"
 #import "MBErrorReticle.h"
+
+// Theme
+#import "MBBlinkIdOverlayTheme.h"
