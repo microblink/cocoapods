@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name        = "PPBlinkID"
-  s.version     = "5.8.0"
+  s.version     = "5.9.0"
   s.summary     = "A delightful component for barcode scanning"
   s.homepage    = "http://microblink.com"
 
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
 
   # ――― MULTI-PLATFORM VALUES ――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.ios.deployment_target = '8.0.0'
+  s.ios.deployment_target = '9.0.0'
   s.ios.requires_arc = false
   s.ios.vendored_frameworks = 'Microblink.framework'
   s.ios.frameworks = 'Accelerate', 'AVFoundation', 'AudioToolbox', 'AssetsLibrary', 'CoreMedia'
