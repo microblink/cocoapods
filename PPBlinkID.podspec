@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   
   s.name        = "PPBlinkID"
-  s.version     = "5.14.0"
+  s.version     = "5.15.0"
   s.summary     = "A delightful component for barcode scanning"
   s.homepage    = "http://microblink.com"
   
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
 
   # ――― MULTI-PLATFORM VALUES ――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.ios.deployment_target = '9.0.0'
+  s.ios.deployment_target = '11.0.0'
   s.ios.resources = "Microblink.bundle"
   s.ios.requires_arc = false
   s.ios.vendored_frameworks = 'Microblink.xcframework'
