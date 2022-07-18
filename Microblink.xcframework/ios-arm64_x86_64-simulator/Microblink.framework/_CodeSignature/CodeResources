@@ -54,11 +54,11 @@
 		</data>
 		<key>Headers/MBAustriaCombinedRecognizer.h</key>
 		<data>
-		ssW6+Jwg+CDGl6EvK882aT/UakY=
+		fzasTVuBf1ab4eDkVf8p1++sGy0=
 		</data>
 		<key>Headers/MBAustriaCombinedRecognizerResult.h</key>
 		<data>
-		hR00mad6mg9/s3nEy8RNqiucn+Y=
+		tpdneUkYXSBWLRovz06oMMHVTUg=
 		</data>
 		<key>Headers/MBAustriaDlFrontRecognizer.h</key>
 		<data>
@@ -154,11 +154,11 @@
 		</data>
 		<key>Headers/MBBelgiumCombinedRecognizer.h</key>
 		<data>
-		9lIni0RW9q8RUQvO1ocRqUmTYV0=
+		nRbaIKY7Uo1L9uxt3VLlMjZacbQ=
 		</data>
 		<key>Headers/MBBelgiumCombinedRecognizerResult.h</key>
 		<data>
-		zMuci84oTDNtCNx7fUdJM1+yv0A=
+		gc0DgXAlxzeJHVV0DexvYBhZBDc=
 		</data>
 		<key>Headers/MBBelgiumIdBackRecognizer.h</key>
 		<data>
@@ -226,11 +226,11 @@
 		</data>
 		<key>Headers/MBBlinkCardRecognizer.h</key>
 		<data>
-		hIKXf5n0ZqNMQqIzoO0lBjcuLCk=
+		v9Qy/rbqP+Qn8iNQKQPddqO47vE=
 		</data>
 		<key>Headers/MBBlinkCardRecognizerResult.h</key>
 		<data>
-		KyRRfo6U2zalWexkuXJs6cA0Gog=
+		KCOTEnMrixogpU8b48NxTB4Wt/Q=
 		</data>
 		<key>Headers/MBBlinkCardUIComponents.h</key>
 		<data>
@@ -242,19 +242,19 @@
 		</data>
 		<key>Headers/MBBlinkIDEntities.h</key>
 		<data>
-		ym/woAGFRfm5yHbIwCKCYq9tgGA=
+		QoxkFugAe8XTMFFtWJeXSSVCtlM=
 		</data>
 		<key>Headers/MBBlinkIDUIComponents.h</key>
 		<data>
-		0YwjqoEO3vUcdz6AiRn3faURNxE=
+		mHBxN1Tj34dTpYKh8tvP+BHYx/g=
 		</data>
 		<key>Headers/MBBlinkIdCombinedRecognizer.h</key>
 		<data>
-		UNUuw3d9LxYZlOCP2kNPkqhYEHw=
+		xwjSc7ouEn6vgZdDwDVr/bk8ASc=
 		</data>
 		<key>Headers/MBBlinkIdCombinedRecognizerResult.h</key>
 		<data>
-		fP/e3uwMsp11P4DnbaItH+KmOZE=
+		vBULpTElHHKst2NEYZfG7WbxClo=
 		</data>
 		<key>Headers/MBBlinkIdOverlaySettings.h</key>
 		<data>
@@ -274,11 +274,11 @@
 		</data>
 		<key>Headers/MBBlinkIdRecognizer.h</key>
 		<data>
-		6h83Bu5lkPNE4rAYFkPWj2qoAEQ=
+		RxrMIdz1Unhrxts+U4XsoKlrxxo=
 		</data>
 		<key>Headers/MBBlinkIdRecognizerResult.h</key>
 		<data>
-		+Fy2d5SS2/PC2pdtaAZuJfNqzGE=
+		nwUISqYg3CPo5FSZ7Qc3rtOf8uA=
 		</data>
 		<key>Headers/MBBlinkInputEntities.h</key>
 		<data>
@@ -360,13 +360,17 @@
 		<data>
 		Z1yIrnygpQkQ/oEZ5JSL9NAWrGY=
 		</data>
+		<key>Headers/MBCameraFrames.h</key>
+		<data>
+		Ud8S3Ux9BXjYXaQ4t5znPxg7mGY=
+		</data>
 		<key>Headers/MBCameraReticle.h</key>
 		<data>
 		e/4c2NzOpM1pqiXD99YNzKGuclo=
 		</data>
 		<key>Headers/MBCameraSettings.h</key>
 		<data>
-		2Tra2kuppzICLfHESsKzcRYwAuU=
+		ZsGR1ZzTlOICqe68zGKqCW32P7Q=
 		</data>
 		<key>Headers/MBCardNumberAnonymizationSettings.h</key>
 		<data>
@@ -378,7 +382,7 @@
 		</data>
 		<key>Headers/MBClassInfoTypes.h</key>
 		<data>
-		02a1pMFGTJcQXeaZsR2AGXKh6vI=
+		2sZvaGN/v0sZKjBCrg9WffoP6Vg=
 		</data>
 		<key>Headers/MBColombiaDlFrontRecognizer.h</key>
 		<data>
@@ -418,11 +422,11 @@
 		</data>
 		<key>Headers/MBCroatiaCombinedRecognizer.h</key>
 		<data>
-		rtV4n7ep2uqzHZquuVBOvrE0I2c=
+		mGADVNk4Tb2i7F0QX8CXfkp3OLY=
 		</data>
 		<key>Headers/MBCroatiaCombinedRecognizerResult.h</key>
 		<data>
-		XjoT62UlBQuwIBYzgxIX10g+kFk=
+		4ouLrhDsfMMAKSIDBl7/dGKiYEc=
 		</data>
 		<key>Headers/MBCroatiaIdBackRecognizer.h</key>
 		<data>
@@ -439,6 +443,10 @@
 		<key>Headers/MBCroatiaIdFrontRecognizerResult.h</key>
 		<data>
 		X21YY+HLLiDnSDtK/I+xmjPCoBQ=
+		</data>
+		<key>Headers/MBCryptoUploader.h</key>
+		<data>
+		ElbZBKysCTgbQr9Oz+XFWJO4DfQ=
 		</data>
 		<key>Headers/MBCustomOverlayViewController.h</key>
 		<data>
@@ -478,11 +486,11 @@
 		</data>
 		<key>Headers/MBCzechiaCombinedRecognizer.h</key>
 		<data>
-		Ua/Q0dWCFjj3t4Ixouns9HaRLYo=
+		NTsIu+bHrJIy4YK+l5vU2cstom4=
 		</data>
 		<key>Headers/MBCzechiaCombinedRecognizerResult.h</key>
 		<data>
-		M0YQZYK2MsDOtdLPDVZgZgohzwI=
+		+/1/C+WUrea0tTFYf3rlH2rWXoQ=
 		</data>
 		<key>Headers/MBCzechiaIdBackRecognizer.h</key>
 		<data>
@@ -503,6 +511,10 @@
 		<key>Headers/MBDPIBasedDewarpPolicy.h</key>
 		<data>
 		/M4r9hS80EiN6hzXx27gLF6uJ60=
+		</data>
+		<key>Headers/MBDataMatchDetailedInfo.h</key>
+		<data>
+		xtUN0qtxyb5wwBRQtOJLNi8yjvY=
 		</data>
 		<key>Headers/MBDateParser.h</key>
 		<data>
@@ -559,14 +571,6 @@
 		<key>Headers/MBDewarpPolicy.h</key>
 		<data>
 		qN8skbo4lYmJimjXOKdmcDg6rSY=
-		</data>
-		<key>Headers/MBDigitalSignature.h</key>
-		<data>
-		HFC64PtGSj1YFXd63Jn+NnlsTmo=
-		</data>
-		<key>Headers/MBDigitalSignatureResult.h</key>
-		<data>
-		IbjiaA1Onkz3zObQsJE9J4ndHhY=
 		</data>
 		<key>Headers/MBDisplayableDetection.h</key>
 		<data>
@@ -666,7 +670,7 @@
 		</data>
 		<key>Headers/MBDriverLicenseDetailedInfo.h</key>
 		<data>
-		wEMMvXINVS2ZpvOHY9rc0XhQUTM=
+		ogbpDlAsjmHBwDrPeSPYQhWLKNk=
 		</data>
 		<key>Headers/MBEgyptIdFrontRecognizer.h</key>
 		<data>
@@ -806,23 +810,15 @@
 		</data>
 		<key>Headers/MBGeometry.h</key>
 		<data>
-		ooUp255KOwxXLjo2OjNTyqmVgPY=
+		MT7WbclzeKICWTH2YY0OJ3x3nG0=
 		</data>
 		<key>Headers/MBGermanyCombinedRecognizer.h</key>
 		<data>
-		m0X5PcCpztD0FmOjLctYAmwB5Tw=
+		yZQdG2SZAdTWiLlZDkBBUnj5NVg=
 		</data>
 		<key>Headers/MBGermanyCombinedRecognizerResult.h</key>
 		<data>
-		ZFOQdERThiIm9OTZgjOA+BhUtdM=
-		</data>
-		<key>Headers/MBGermanyDlBackRecognizer.h</key>
-		<data>
-		/s7sbvNOaGx/68HhR2SS5Rbcbxs=
-		</data>
-		<key>Headers/MBGermanyDlBackRecognizerResult.h</key>
-		<data>
-		bTGkMRynL4/MGYd1XIYIHQVB/go=
+		06ftfNIp95bBElqbVBN84uMtgVI=
 		</data>
 		<key>Headers/MBGermanyDlFrontRecognizer.h</key>
 		<data>
@@ -910,7 +906,7 @@
 		</data>
 		<key>Headers/MBImage.h</key>
 		<data>
-		s3EqB0+MUSk01Fz6YDB/vBQkOaQ=
+		kMOBW9CHw43FHkvEQRJnoUWY0Hs=
 		</data>
 		<key>Headers/MBImageAnalysisDetectionStatus.h</key>
 		<data>
@@ -966,11 +962,11 @@
 		</data>
 		<key>Headers/MBJordanCombinedRecognizer.h</key>
 		<data>
-		OXWF4QKBU+1XwisHuXw6wocE2bY=
+		ma/vmvKfqu4vch/x7Rr+ULx0rpA=
 		</data>
 		<key>Headers/MBJordanCombinedRecognizerResult.h</key>
 		<data>
-		AZGWql6Tq1C8O2i8ntXK140lNPw=
+		cZDRrg8tfQu4s7kyNRHKv0qeo08=
 		</data>
 		<key>Headers/MBJordanIdBackRecognizer.h</key>
 		<data>
@@ -1006,19 +1002,19 @@
 		</data>
 		<key>Headers/MBLegacyBlinkCardEliteRecognizer.h</key>
 		<data>
-		xsKXbopp7DqEAM6Mc8s/H2V0Zcs=
+		j3oz+aVBtryWdT+2IcLv8d7ETD0=
 		</data>
 		<key>Headers/MBLegacyBlinkCardEliteRecognizerResult.h</key>
 		<data>
-		rQp7ll43EXoN6QBiW+00KAGgojw=
+		K2WgpJmKoabGd2lBBLn41gIDOFw=
 		</data>
 		<key>Headers/MBLegacyBlinkCardRecognizer.h</key>
 		<data>
-		Lgmr0+NeeO1X4bG4Wo6s1y+t8rs=
+		Kg2Es4/YYYyxGOQuNRlcIHxvRZg=
 		</data>
 		<key>Headers/MBLegacyBlinkCardRecognizerResult.h</key>
 		<data>
-		EbwkZ9ZsviBB27zRar4PlHXLODM=
+		abPOkEnWKjdjnpkkWxjG5WIZ+J0=
 		</data>
 		<key>Headers/MBLegacyCardIssuer.h</key>
 		<data>
@@ -1162,11 +1158,11 @@
 		</data>
 		<key>Headers/MBMrtdCombinedRecognizer.h</key>
 		<data>
-		Y3LWliKLtdeqrfaaKew+dEvhSGo=
+		75RYW2guMObuGuF91Ab/684OkMg=
 		</data>
 		<key>Headers/MBMrtdCombinedRecognizerResult.h</key>
 		<data>
-		WzvlG04TLXF/pfADHlrN/HisAiU=
+		Gdu5iDCNKhh1XIyXLApDpK0Of4s=
 		</data>
 		<key>Headers/MBMrtdDetector.h</key>
 		<data>
@@ -1218,11 +1214,11 @@
 		</data>
 		<key>Headers/MBNigeriaCombinedRecognizer.h</key>
 		<data>
-		rqPBoM6C44ZWSCEII7pI0kFU+cU=
+		w4TXXNnjfN8PXvSfX7OXAhs59pY=
 		</data>
 		<key>Headers/MBNigeriaCombinedRecognizerResult.h</key>
 		<data>
-		3kF8gV/uMxrylBV1swLicRtissY=
+		qzTFr+Mtcbql97jFbHCExOoRaS8=
 		</data>
 		<key>Headers/MBNigeriaVoterIdBackRecognizer.h</key>
 		<data>
@@ -1294,11 +1290,11 @@
 		</data>
 		<key>Headers/MBPassportRecognizer.h</key>
 		<data>
-		T1UHoxcnX3n0iJj82IMn0qdq2WQ=
+		tLHx2Qpe8jSvD3kZKhcldHdO4mw=
 		</data>
 		<key>Headers/MBPassportRecognizerResult.h</key>
 		<data>
-		1a6Pqs2b8bWevoSvx45xP9VBZzg=
+		sHBTxIVyNn9Q2prAsPVLaFzt34A=
 		</data>
 		<key>Headers/MBPdf417Recognizer.h</key>
 		<data>
@@ -1310,15 +1306,15 @@
 		</data>
 		<key>Headers/MBPointDetectorSubview.h</key>
 		<data>
-		zolUrbNidtvitCVJ+EbKBvPbfVQ=
+		ZL5hdtTXR7TVo/35HFBAdq1rlWk=
 		</data>
 		<key>Headers/MBPolandCombinedRecognizer.h</key>
 		<data>
-		wd30RRlyaysYdxi+4eCpinxMNuw=
+		SymNP8g0S5bs8o40RTTl7WEbJqg=
 		</data>
 		<key>Headers/MBPolandCombinedRecognizerResult.h</key>
 		<data>
-		TFeHjcoGrJ4UnXlGDtH4/Jj+Jm0=
+		jMnwg43Q+6CcBFZVLLdAFeqlhek=
 		</data>
 		<key>Headers/MBPolandIdBackRecognizer.h</key>
 		<data>
@@ -1366,7 +1362,7 @@
 		</data>
 		<key>Headers/MBQuadDetectorSubview.h</key>
 		<data>
-		fHQpHrIyw3RO2NlXtVUrl296nNs=
+		uFeKJTjC4bGqkO/g16ievxwp2wc=
 		</data>
 		<key>Headers/MBQuadWithSizeDetector.h</key>
 		<data>
@@ -1398,7 +1394,7 @@
 		</data>
 		<key>Headers/MBRecognizer.h</key>
 		<data>
-		sltTZCMJ+NkfVRX9TBsJ3w/0X9k=
+		bWd3lYDba7qKqADhzixg2+iISa0=
 		</data>
 		<key>Headers/MBRecognizerCollection.h</key>
 		<data>
@@ -1476,6 +1472,10 @@
 		<data>
 		dceU7YyIau6BXtrWcpxo/t3Ak/o=
 		</data>
+		<key>Headers/MBSignedPayload.h</key>
+		<data>
+		O5fs+vHcL7wHkZ5NhXvzUz89xS0=
+		</data>
 		<key>Headers/MBSimNumberRecognizer.h</key>
 		<data>
 		S0TU+ia4P8UyZvQOoa9JXrFwGHI=
@@ -1484,21 +1484,13 @@
 		<data>
 		5T6m9Mbr+6DXo9iMWCd1VXtyEMw=
 		</data>
-		<key>Headers/MBSingaporeChangiEmployeeIdRecognizer.h</key>
-		<data>
-		XaHq7xp6ZtH+2X1f4J4nyvafIQg=
-		</data>
-		<key>Headers/MBSingaporeChangiEmployeeIdRecognizerResult.h</key>
-		<data>
-		cIQx8zgL50a7PgLBh2iOkefV4E8=
-		</data>
 		<key>Headers/MBSingaporeCombinedRecognizer.h</key>
 		<data>
-		hOVdNw0LowuC1j171/+jCEuO6D4=
+		Y/mc4G1b0PSentapkzH5P1rVX+A=
 		</data>
 		<key>Headers/MBSingaporeCombinedRecognizerResult.h</key>
 		<data>
-		RoBTQAoR91gNO+JWV66sRSo2t7E=
+		lvdPnOb5pXfoaFOO6SBzX1xfKp8=
 		</data>
 		<key>Headers/MBSingaporeDlFrontRecognizer.h</key>
 		<data>
@@ -1526,11 +1518,11 @@
 		</data>
 		<key>Headers/MBSlovakiaCombinedRecognizer.h</key>
 		<data>
-		oH2Dkcda50eSnvOSqpg8XbUXYvU=
+		/7/XEhbdsXi10hTK60oG4lE1fUc=
 		</data>
 		<key>Headers/MBSlovakiaCombinedRecognizerResult.h</key>
 		<data>
-		0I9n1PzuXj/Mn421sdyG4v8hBGM=
+		SOexOV5tR5zPOy3db4bBY2U+WWI=
 		</data>
 		<key>Headers/MBSlovakiaIdBackRecognizer.h</key>
 		<data>
@@ -1550,11 +1542,11 @@
 		</data>
 		<key>Headers/MBSloveniaCombinedRecognizer.h</key>
 		<data>
-		541V3MsDKQjgB2fc3Eo0fp5u/mI=
+		iETx3HYq4k4Peo8G6PA5Sj3lLVA=
 		</data>
 		<key>Headers/MBSloveniaCombinedRecognizerResult.h</key>
 		<data>
-		2OCMkI/2hR5vY/rz4xoREI7Ls1s=
+		02CU7BKuLaY82vt8GNn1D0Phh8E=
 		</data>
 		<key>Headers/MBSloveniaIdBackRecognizer.h</key>
 		<data>
@@ -1688,13 +1680,17 @@
 		<data>
 		SOyk2IwVbR4Xov7uBe3QeIqe2Lg=
 		</data>
+		<key>Headers/MBUploader.h</key>
+		<data>
+		q7dXsGcPiyiSc+LopGUHwvbPYo0=
+		</data>
 		<key>Headers/MBUsdlCombinedRecognizer.h</key>
 		<data>
-		bF81BhDLnLWMXrsr7BZBIjOqCHs=
+		hJft/6/S94PQ6/BRNmJlpH4bvvk=
 		</data>
 		<key>Headers/MBUsdlCombinedRecognizerResult.h</key>
 		<data>
-		Vim8zfbiiI9cLiZ4XCaPlXB4UAM=
+		QZsE0UmLEWdnEbDrsNiwUDGJY6o=
 		</data>
 		<key>Headers/MBUsdlKeys.h</key>
 		<data>
@@ -1707,6 +1703,10 @@
 		<key>Headers/MBUsdlRecognizerResult.h</key>
 		<data>
 		krzGtVvK191pXO2gCNY5WTlayzs=
+		</data>
+		<key>Headers/MBVehicleClassInfo.h</key>
+		<data>
+		a3GeK61n+FC5hXEZvsYE7+f/06I=
 		</data>
 		<key>Headers/MBViewControllerFactory.h</key>
 		<data>
@@ -1738,107 +1738,139 @@
 		</data>
 		<key>Headers/MBVizResult.h</key>
 		<data>
-		qgUbnBFRFG2g/3mN9HP+M0bMAso=
+		jj2hMZJ92ZO7MLYDH7flBc0FXZw=
+		</data>
+		<key>Headers/Microblink-Swift.h</key>
+		<data>
+		QgpxSR/GbVhxfRq1Q0lqZvvas7k=
 		</data>
 		<key>Headers/Microblink.h</key>
 		<data>
-		ch4TRXai4F5DdQtovGh3jqCr5dw=
+		229wfB4x2jaSuWVpiClSX15amVQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FjoAflS0VQkEGJb53JatAw5NZv4=
+		3Xls1gw5Ggvdfj/6V2Kq4Pm9caY=
 		</data>
-		<key>Model_141118c0becd849c17db70ccc43c26d657598b76e2406e690660574e27ec2854.strop</key>
+		<key>Model_1118d9d674e23996f70c6416b2bf5a6ce6ef24a6ad2c92f0ddd1e198e5f05305.strop</key>
 		<data>
-		j8CcMYqfTbTesHjTUEKrBXxGy+4=
+		FPm8DIUuT4PX0WvmTlvZw1wBCWw=
 		</data>
 		<key>Model_2880751121560047e6dc571bc8ff4683aeb863886f7c0789234594ceb1e23577.strop</key>
 		<data>
-		D9UfU2hNK1HZKe1bfjNkGdIx+oM=
+		GNLEKohRmcoRKGXwBcNzL57Kuog=
 		</data>
 		<key>Model_349432d66ef2b216155673b634f7d5c47795bed35719b954f726b5f0856740f3.strop</key>
 		<data>
-		SZAZaSKlqCDq2DMX1y4Wi+2jtCs=
+		+l6XsGQ49v7xB5JexPxCHixspy4=
 		</data>
 		<key>Model_36d8e94f4cb46097bd6b7385f2aa91fcdee1a5fefeec59e56d1b9e82c94b00a7.strop</key>
 		<data>
-		ufTTWORdhNt5eu1936oiGSf7QWY=
+		/5vKssbtQVv2+/p1JOl+t5W805I=
 		</data>
 		<key>Model_3e80772d11f448d75ee36985f5520d306a18b43c76e173096ddb44d3196d0e05.strop</key>
 		<data>
-		MtEfXpIxgNM+2SNnpx4j5vLlvyc=
+		iFeK4ADTrcVGSQImhlIZD0baGww=
 		</data>
 		<key>Model_406f8d5d972cf76a9241b35abbe5758890353b9b7daa922f732c4151ff6a0d9c.strop</key>
 		<data>
-		CV9uq9FAl/MnEGjt9DKRtLnOyAI=
+		zUktRafMLw3MYrW0/5sH3Jnkiqs=
 		</data>
 		<key>Model_473ac5f5e256623c0a6b282698c1f1b033b9fb5359e6aa142e9fb4a4022afe4e.strop</key>
 		<data>
-		TNvtOz/K3Z2KKrTuNEPy6+ssiBU=
+		99alNB+ZjuSrucb8TZaWeieRzCo=
 		</data>
 		<key>Model_67100bc24967ea3e516430d3fccf4dea0000eac479bf1d77a908c00d1a2b63a9.strop</key>
 		<data>
-		3XyzBEJ62Zwj+XXaRRpN2QX1q9Y=
-		</data>
-		<key>Model_6fcfcf65470175835ad25f62811d30a830eae72672962cfcdcac88cda8b91b9d.strop</key>
-		<data>
-		mDaG9tSIVnNsnOyowQP5QBHnR0A=
+		QQwdSgVR/zKvb0Au1INk/7TnFjE=
 		</data>
 		<key>Model_76731e0beb8c4be154467d2248a49530571c5b73a2eaef987361f75d578f576f.strop</key>
 		<data>
-		0liYHI43t/8PuVb1l4pK6G86vGQ=
+		94EB7xTSdWV9k2cG6AYIAYpVnnk=
 		</data>
-		<key>Model_9dc0335b6b55322b592e8be0b7e57216af00e3badcf78a69aea2543e5ff2c0e3.strop</key>
+		<key>Model_830c13896f96c1cb6d5cad725f44e6aae470f8672d640d20b3272ed4bb839699.strop</key>
 		<data>
-		2LhCP2CCYSPoh1R+bpaRWZH7H6M=
+		LNIz0BXqPLoUwJBgwcWAa83EGAw=
 		</data>
-		<key>Model_9ddda5959c7694e413899b6723956d42f8c89f80c1f673879440684bbb3b8dad.strop</key>
+		<key>Model_8322bc53f683fdb17f42124244cf6469a82e1c00ec8c43c5d7939ae25ee8c006.strop</key>
 		<data>
-		ZhIy8Nzzcyfjx+SNk/Mjxb32koI=
+		kSoaKKLZIqsud/VFlWdI20ZLOTA=
 		</data>
-		<key>Model_a3df4ea01179026ff7879c27ceec653d59d062c20eaaed021e1000d18879f2a1.strop</key>
+		<key>Model_840bd7ad76dab96d6ebae4afab54c9608ffe35d9f35a92e46a45924d04fee981.strop</key>
 		<data>
-		A5GGiZwW+KL5K0uHFhyjAHWPz+g=
+		BMiqIYQUTg3Yqz8XgtRcFdnmyXY=
+		</data>
+		<key>Model_a5858807e9d6b351bdbe37cbb4f373b6b9dca41776e0f60a8457be92550632ed.strop</key>
+		<data>
+		W1sJQA5HFlHe6Z5TWIo2dlWqCdY=
 		</data>
 		<key>Model_b452fd3cd4037080cfcb4c423dba5bc58c8ceafc28427fdf9c5778fb353f088e.strop</key>
 		<data>
-		M6I7KHDivpyD+tAANxJMEYqo2kI=
+		OLwVi5CHQdJe/llbbvasD2A2sgk=
+		</data>
+		<key>Model_b9263312a9b623d1a3b75b643ccdcbc36aae52c278d721443468147c50e44583.strop</key>
+		<data>
+		FRIXNUO7TBmB5mWQYeN/UC99Vq0=
 		</data>
 		<key>Model_cc1fab8df49d9a21de6c7b76ccf0dac40b17fcfb7073cc520eca073cbf8e33e9.strop</key>
 		<data>
-		dMG66eZk7IwmTJ9GD75WNqMAyLw=
+		KKiDxfWV2w+eNI63PGPdhMQhB7o=
 		</data>
-		<key>Model_d41e83baa5b06261e15e7baefad0bc6a145491b58130921d410d658e6d9c70bf.strop</key>
+		<key>Model_d647a73c5ff6581d591761cdfe03eff14a830e302c92782c1d683291bea047d6.strop</key>
 		<data>
-		WtfVDUZ4XS/Z0gcYmoNQOp4P78o=
+		y262eDYtOvwOYw2pNzxWsLyRoP8=
 		</data>
 		<key>Model_dac6fc7b40d6510f2b05716c9e63847e67e79e6664192eed937aed343c61403e.strop</key>
 		<data>
-		6xMWdmMh0Gh0N7QiCzPES8GBuBY=
-		</data>
-		<key>Model_e10bce9a414a7da1191868196799db37f21a56d11e9619e8db91127cd1881238.strop</key>
-		<data>
-		O0kvR0HYTSnFVIVTFZwynb6uBas=
-		</data>
-		<key>Model_e2dda372088c13ba3741a0f13e7d33946d638f58b97e4cd886f0970eeccfde39.strop</key>
-		<data>
-		XHDD4YN484Si3l9JGZwSJbyuXC0=
+		nPQ8fEE/RwgXivf1eIkbFxLlTaI=
 		</data>
 		<key>Model_e4f1f62f68ec44b71ecad3fb3f3b48fe3790beb5ab325611e17d63af06e9f644.strop</key>
 		<data>
-		LUCOXH19oRWEHxxSyiMFMMzte9A=
+		/odNJ0TEpq4w1X/4zw9sefODMl0=
 		</data>
-		<key>Model_f1bfb0da115c7d247dd44b6082e53cddf830058e3cf1ef88161e77a42584fb31.strop</key>
+		<key>Model_f132d1bd7614b1274fafb8a41ec6c047b84b2a43654ae2da5ddd78a2765601c6.strop</key>
 		<data>
-		PB+hm0FES313blpfSeeT0oSw/6I=
+		LOiy03YHMDDIlmPjhECZiiurkZE=
 		</data>
 		<key>Model_faf688599c7e261a2a7404730f69ed029115bb0d3e7a3657731d88e701720efe.strop</key>
 		<data>
-		Cz7gWOnLjCj7yYFhvSz4b/EM0HA=
+		BC9GsHOrXvHn00z3BDaFL2rpG2w=
+		</data>
+		<key>Modules/Microblink.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		IyRhLRU6c/Cv7c3TdBJsrT00YO4=
+		</data>
+		<key>Modules/Microblink.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		OcH/98hJaRQIMXNzYCzJS6Ilelw=
+		</data>
+		<key>Modules/Microblink.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		jWhlif0jfRo6GapHW/z1pRPfkwA=
+		</data>
+		<key>Modules/Microblink.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		SyznuVri4pkB3orVCbMmfqvM5zc=
+		</data>
+		<key>Modules/Microblink.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		VnqiDyrMivBVgpDpx1mNg1R5rC0=
+		</data>
+		<key>Modules/Microblink.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		lSlxerkL/i10FkTvV6xYfT7ra/I=
+		</data>
+		<key>Modules/Microblink.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		V2TIJohWoesOhdbS8q1+WxwOrWs=
+		</data>
+		<key>Modules/Microblink.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		SndJq1rYG84MK/0n01R1wCxNiZw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Pcr8Y531vHlERWcl1+qmXeh8hAA=
+		98MFygUvPkttrMy5bdYSh6YCMWg=
 		</data>
 		<key>No Camera-100.png</key>
 		<data>
@@ -1906,11 +1938,19 @@
 		</data>
 		<key>blinkcard_logo.png</key>
 		<data>
-		Dh9BUEh6nmFH2A3twdeL5/IAZxs=
+		HhwL8V/FfqRmpvWK2D5yQ4sMOwY=
 		</data>
 		<key>blinkcard_logo@2x.png</key>
 		<data>
-		R+h7e7COh7sje5GEt1tiDkuwfBg=
+		/t7oFq/Ns8sKD4+o0swKbx+0sBM=
+		</data>
+		<key>blinkcard_logo@3x.png</key>
+		<data>
+		lkHHu5G9sNHZQE8whYCQ6JxeLLg=
+		</data>
+		<key>card_templates.zzip</key>
+		<data>
+		LZvjBUwqntmyvMyjo5bVQfODqdQ=
 		</data>
 		<key>cbl-error.png</key>
 		<data>
@@ -1975,6 +2015,10 @@
 		<key>ccc_lookup_table.zzip</key>
 		<data>
 		Tf5sZLcLePSK4SAOuYz410mjMfc=
+		</data>
+		<key>cert.der</key>
+		<data>
+		U0lI4GHXAPHgNiD/p8pRtn9i788=
 		</data>
 		<key>cirrus.png</key>
 		<data>
@@ -2410,27 +2454,27 @@
 		</data>
 		<key>model_arabic.zzip</key>
 		<data>
-		+bEJGDHjTgeqBZE9zRr3C91dYps=
+		eK35XXJUW/DnGYTGOgl3vS7e17o=
 		</data>
 		<key>model_eudl.zzip</key>
 		<data>
-		avZhcRjLX92ZzN1urCwX8GKv7Qc=
+		BUzorV4zDP9sGRv56BFhfPFm1KE=
 		</data>
 		<key>model_general_blink_ocr.zzip</key>
 		<data>
-		er+AyOcCcDq8U0RmhZj43uAIziE=
+		j+eat0MP7B2v9E9F6P0ExkNLv+o=
 		</data>
 		<key>model_malaysian.zzip</key>
 		<data>
-		PvTXXwWhkpudceC5l3UZgayHJlA=
+		7u9s3ROw7MsEG9++vr7bVXLYobY=
 		</data>
 		<key>model_micr.zzip</key>
 		<data>
-		fRktKd3655QAMbqiUYXNox2qzn8=
+		YJFX6EzmIsFUehDT2dpTkWd1poc=
 		</data>
 		<key>model_mrtd.zzip</key>
 		<data>
-		j3DhAqIKAZ9t0TBP/h19gXqJHY8=
+		wwi8IkBTGsDDmejXbCESM+oaA1Y=
 		</data>
 		<key>morocco_id_confusions.zzip</key>
 		<data>
@@ -2527,10 +2571,6 @@
 		<key>take_picture_button@3x.png</key>
 		<data>
 		hdmvT9pcm/s9OhTWidI+a4sdJ5o=
-		</data>
-		<key>templates.zzip</key>
-		<data>
-		P7VtstEg7QwH3F4w2pBWAiO2970=
 		</data>
 		<key>th.strings</key>
 		<data>
@@ -2707,14 +2747,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pbxxlm1viZ5ag77aBdR7Ih0cFWYl0iyHMmOlq8fuhjQ=
+			rT1N0vWVBvu/BGldjxEiYyE8gXbzww2MU+N1wzBquX0=
 			</data>
 		</dict>
 		<key>Headers/MBAustriaCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uFSNARkKd///oSFdxTa5hHitF6CXI2WABfk/UXiakFI=
+			EIEvwG1xKYgIxPdq8TBB5V867ED6Ctj99FykNZQh2eg=
 			</data>
 		</dict>
 		<key>Headers/MBAustriaDlFrontRecognizer.h</key>
@@ -2882,14 +2922,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nza8DXxd87rRMToU9bN5wShvH09s22csBGIW02EDris=
+			Gy3tVRnaB5ZM5y7vlU5uDgZf7lQjROrxD91TtFHPF0w=
 			</data>
 		</dict>
 		<key>Headers/MBBelgiumCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ew/y9T4Zsr6yPFRsQAxFniR7y+DOPb9xJt1WqM7KxsM=
+			pILP8O2/k1vz/FLk78Mg5kbRGndxOCUyZawZdi29BHg=
 			</data>
 		</dict>
 		<key>Headers/MBBelgiumIdBackRecognizer.h</key>
@@ -3008,14 +3048,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DfBZydsC8DlCDyaLYZXsHUgODRbWMWf3i2I/BeRjk5w=
+			sNza9MXkExcPki6vohj3cHXGwbExVdFjbBySw9UADpE=
 			</data>
 		</dict>
 		<key>Headers/MBBlinkCardRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GSjYyz7K79aHQsEoaVV7qI1flPVuyX/5YStJqyJhyMU=
+			+J3fmgwOdLSC+ggIgcS7X9CK7Mw1pkkoT5is1Wqxc6g=
 			</data>
 		</dict>
 		<key>Headers/MBBlinkCardUIComponents.h</key>
@@ -3036,28 +3076,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aj0XyaRkYDe1rFhdv/PXqZjJEq9sGtVUrri33kF+VLw=
+			5ooWPfyRom+ndEHea2d+2jPfdl4DWUBlkSw9uMnfqm0=
 			</data>
 		</dict>
 		<key>Headers/MBBlinkIDUIComponents.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zGdmKeyoOQyJ+cKScAXWIdXtUz79rHAnwtZrZbC0FNM=
+			MQPHdvxpGaCWtgUJO1J8WMwAfnSAvW9LuevWZcdkqFs=
 			</data>
 		</dict>
 		<key>Headers/MBBlinkIdCombinedRecognizer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7lhNPUoqibadFSWhCBDHZpgSAomrkKbiQt6Rwjd+I5Y=
+			eR1ud/F1zOjJoU7nxAODpLjczF2IVl7iwwR7elS+G+A=
 			</data>
 		</dict>
 		<key>Headers/MBBlinkIdCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TW1Z1HI4jfkTAHfLu64VL7tEbTGcO3k+757ogNHoSCE=
+			hWTxZmYpjUMYoSAykaWUoqJ2Ag2m7VGW3p23E1X8TuA=
 			</data>
 		</dict>
 		<key>Headers/MBBlinkIdOverlaySettings.h</key>
@@ -3092,14 +3132,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rm6gBVn/+BP5tkim48L/NQPccuFCrtLAZ9fMCd5avqE=
+			KX/7Q1GJ6ln2YJ7R4yOslnoT+Z4KrPeIAggKEJfG6L0=
 			</data>
 		</dict>
 		<key>Headers/MBBlinkIdRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gql16807mNr7aazcG1JkhNAnNBpAXpHd1Z49WON9C60=
+			/D3S99a2tqSQ0g5jxGhz5ejI/Y61RzgaVwWwkjavCsM=
 			</data>
 		</dict>
 		<key>Headers/MBBlinkInputEntities.h</key>
@@ -3242,6 +3282,13 @@
 			uLKKcQBpQVSYWpaP7LU5Ttg5xHJhAhGxFeFcgzJwuFI=
 			</data>
 		</dict>
+		<key>Headers/MBCameraFrames.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oh1llkNONNyVTT+y1+qgM9O3H+B+Otq04cTdue4XyQE=
+			</data>
+		</dict>
 		<key>Headers/MBCameraReticle.h</key>
 		<dict>
 			<key>hash2</key>
@@ -3253,7 +3300,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BLPvAh73ztDG+uc6mBZXjysk3okAtOa5Cin7nyUWKJk=
+			pw2NzT4NUorpY3kqQfQZ1donr2PoOvxgCCcVo1iZ818=
 			</data>
 		</dict>
 		<key>Headers/MBCardNumberAnonymizationSettings.h</key>
@@ -3274,7 +3321,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pxZOFdKUuXJj9xPVniAcAKeYQybxFBkEwSM5e1lbbvg=
+			kDGM1SJk42SsS3kUMT1I3y2Hg9bPOB6g26OohWa75b0=
 			</data>
 		</dict>
 		<key>Headers/MBColombiaDlFrontRecognizer.h</key>
@@ -3344,14 +3391,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XAJBEK9oZDVGE3uL4c+QpaYrrZOdYoJsxjNo/8tHsn4=
+			YhO+tV6CAwAB36hw1mq1lw8Wr3G1ef8jb+c7xiu3jpg=
 			</data>
 		</dict>
 		<key>Headers/MBCroatiaCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KwQ5C+MN7i28w9o6RwANse8kAjvZN3HONBeZTYYtojg=
+			wr8Cj6pyG4OtjWFws7W+/QjEvWFEfXF69S+kQJgvXlg=
 			</data>
 		</dict>
 		<key>Headers/MBCroatiaIdBackRecognizer.h</key>
@@ -3380,6 +3427,13 @@
 			<key>hash2</key>
 			<data>
 			s1KlJm0EHDNTgBQ6fPUVxqSUegDR+im2I6BnVYXRxa0=
+			</data>
+		</dict>
+		<key>Headers/MBCryptoUploader.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IKqHhmjeSMltGAXvHk9bHPuFkJzrMhNchFtLVoM0y+8=
 			</data>
 		</dict>
 		<key>Headers/MBCustomOverlayViewController.h</key>
@@ -3449,14 +3503,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Gkk+m3/XPoAVj2hsDGW+b4/+8CmTEDHbFvL0TrgxoY=
+			6b7jd4SJCOWCJTMWzvyxJART3xJ9FCzl9OJIt6r/+5A=
 			</data>
 		</dict>
 		<key>Headers/MBCzechiaCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			J5grl9HeAZYQJdDh+9GuWQAgVsnHzCa9TC2iI0Ldpo4=
+			ma9CqP6DIO6V3LPeskoyY3pKM/PHFqxzfmBL//ME+Dg=
 			</data>
 		</dict>
 		<key>Headers/MBCzechiaIdBackRecognizer.h</key>
@@ -3492,6 +3546,13 @@
 			<key>hash2</key>
 			<data>
 			AMn4/FzAQW7Lrnnwa1AQdFvUNYBnJ4bXvNa2+JEoa4Y=
+			</data>
+		</dict>
+		<key>Headers/MBDataMatchDetailedInfo.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tBzpQxRtneLw9PVxaepAuRrdFBoaE6PzdLYw80WsJT0=
 			</data>
 		</dict>
 		<key>Headers/MBDateParser.h</key>
@@ -3590,20 +3651,6 @@
 			<key>hash2</key>
 			<data>
 			1LoE/3mkgB6g0BE9Nzc7RnhCyWIj55nbXT1A5BNqSgI=
-			</data>
-		</dict>
-		<key>Headers/MBDigitalSignature.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			l91alRbail3lIPoLLwI9LSYgLBjOnv+4D+bNFImTApU=
-			</data>
-		</dict>
-		<key>Headers/MBDigitalSignatureResult.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kOnXWmNvQXrMt/UHq3WkCK2RQrTPjGH7s+TcNo+D6eI=
 			</data>
 		</dict>
 		<key>Headers/MBDisplayableDetection.h</key>
@@ -3778,7 +3825,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uDm7yKLl7KYd0fCZt+MxvYlXVCJ2K/W3iO7YUgrqsdA=
+			Culc5WH7vn/NLtRXoOnxso+9TxMkbPVXUfdA1/zxkK4=
 			</data>
 		</dict>
 		<key>Headers/MBEgyptIdFrontRecognizer.h</key>
@@ -4023,35 +4070,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lc8+I/mjnSsjnbGjIKsdGTxfwmcuuaHmhRH+neJg3hE=
+			Zjz6V21+vx5AGnfsupzDuinBt+DLTN3qbm2DKIki6rk=
 			</data>
 		</dict>
 		<key>Headers/MBGermanyCombinedRecognizer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Omq7RgBR4Fs2oaol9wmURBdohsPNAyMoY5iHCpaSOmA=
+			RwpJAUtSXBONyd/r2wtR6Q2o/5CIjQmOls0PAFaMMWo=
 			</data>
 		</dict>
 		<key>Headers/MBGermanyCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WKwjiKLMlOdY62pg5MP0r9WG1/J45tXZ3RZiEkVYvnY=
-			</data>
-		</dict>
-		<key>Headers/MBGermanyDlBackRecognizer.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lun85nkt7vN/n3QInbiuFqc3QcgtfmoRmXGVbzmgIbM=
-			</data>
-		</dict>
-		<key>Headers/MBGermanyDlBackRecognizerResult.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			AidqCEQswv4kbCkGZkUwAIGIwfJ0kA3WfTZtP3aqo3o=
+			o2S+4O3sd1kaUEv1j/vGVNy9ZIU/fXx4WYCEF9zqZj8=
 			</data>
 		</dict>
 		<key>Headers/MBGermanyDlFrontRecognizer.h</key>
@@ -4205,7 +4238,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kxi5J+Lw5I1Yw0ZYrGL5n+CFC2NiQ0ZD6xhIrFPdmMY=
+			pkk9gj8aEhcjHmLWMMzAnSgpm3Beuyx+RhSq9R7ANrI=
 			</data>
 		</dict>
 		<key>Headers/MBImageAnalysisDetectionStatus.h</key>
@@ -4303,14 +4336,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NudeTHaaTk5nPirh15WbQOtk58E1meuPRoThP/c5LQA=
+			HZOxppIbVkjTrBgJcvql5BgfkdbQhZCtAVTF1LKdWD0=
 			</data>
 		</dict>
 		<key>Headers/MBJordanCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IvCfTOLWx4pavQmKnCrBqHJEtIS5JAtbHJMVrV+driI=
+			5PbMnJuAgjkTJX4K/N5CbsXe9TSONPJ7wiFfy8+KsYo=
 			</data>
 		</dict>
 		<key>Headers/MBJordanIdBackRecognizer.h</key>
@@ -4373,28 +4406,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d2iEI++JVsds/hBy1QlvI6NMO4FgioE7qIePKC5bWiM=
+			pZdn5COiz/Eq858gR8ZfBW1N4MhkIofv/UHV/kykpIY=
 			</data>
 		</dict>
 		<key>Headers/MBLegacyBlinkCardEliteRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6rT20YlI4p9mOQ5jZvg0GB4zEFpaOEKsM89lSGg9vOA=
+			xQPFPNrsv7fv84wbGp/Py9aV0pPxwFr6kAnOjDbD0o4=
 			</data>
 		</dict>
 		<key>Headers/MBLegacyBlinkCardRecognizer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3Nb4FhpK+7w+mpXIH0s9SouvfQ0sXKGnZAufPINVxkE=
+			h0E/VMxe4NPYhbjQ6DZ6NmvPam/gURLaEWxURLtBGj0=
 			</data>
 		</dict>
 		<key>Headers/MBLegacyBlinkCardRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8eyXcoeT6Bs+rSviU0ffrQ7/3upGZ+pTxXGZaixQUrM=
+			Z/W/ERz3Z/S4ANR6AP5OJJZGTB8NOHpRQnJ07mowqgQ=
 			</data>
 		</dict>
 		<key>Headers/MBLegacyCardIssuer.h</key>
@@ -4646,14 +4679,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0HMMHpsiTFxton4EMvKqa0wok+HJu6uBJEI/FqNnoJo=
+			6eC58cqr/3jbugvXZoHD/wLInfdN/eZIaRcP6ShyCEc=
 			</data>
 		</dict>
 		<key>Headers/MBMrtdCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sEfe4G71Bc5ja28CnzLGxzV5EHOQiX2gEp4R9S0/cz4=
+			gO3Uy3afBYmLHayFrhxbdMBj1FOQjSH9BQGOXUGp2yk=
 			</data>
 		</dict>
 		<key>Headers/MBMrtdDetector.h</key>
@@ -4744,14 +4777,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v4ddBhN/mALaMCront2yrugldtQYs5L/CsdJe6B8dII=
+			5p9/qX2R/K3YuDNVF/ixx/PhGaZ7u9mj/h1TGE4SLqU=
 			</data>
 		</dict>
 		<key>Headers/MBNigeriaCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ucNaFII1ICJ3+pZ92zXsJ60noyWZieRwkPBlIUuhCdE=
+			UjNgbtjdZ27lLT/7eYYC5RDSA4J3Qu1hDZCVOVDpwSE=
 			</data>
 		</dict>
 		<key>Headers/MBNigeriaVoterIdBackRecognizer.h</key>
@@ -4877,14 +4910,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jWES6oAuIt/0lZz3hivzhJHGar87VrS+qxQJnPTLRy8=
+			8ZYnFWixINCq6yN4OrHjewMWfuE0z1e5pjo8N+ayoKY=
 			</data>
 		</dict>
 		<key>Headers/MBPassportRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oPVUm3L2oec/d7JHEYbkKXjdhW8oARZrgXrb4Bfw948=
+			zjOYUfrgxiUvqZWXgrdOUhF2ZNFSWDjYM2r/36dsxWk=
 			</data>
 		</dict>
 		<key>Headers/MBPdf417Recognizer.h</key>
@@ -4905,21 +4938,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aeIdLxXa9pL0yk41OscSb53s4FmQckgLfJVlkNu3r54=
+			vZDPYcdMrg+snRHR80nwec5QP2Hi9RNLypnVIch0lg8=
 			</data>
 		</dict>
 		<key>Headers/MBPolandCombinedRecognizer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YwMXfj5AI6lNsuTZQcKBp2cKqMss9c0bWDyK0MfayVk=
+			IwtVAUd4L0v9aIiofClUR9ouDiEmJWj+LOfQWY9/jaY=
 			</data>
 		</dict>
 		<key>Headers/MBPolandCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F4xnSf4Ek8yqwjIDSlaiCUw5YEJ4dTjJi6eQDqc1kLw=
+			xagGIFcO7Rvxrd04IfUS48vIH4EHjObKvRr7pXmzNpk=
 			</data>
 		</dict>
 		<key>Headers/MBPolandIdBackRecognizer.h</key>
@@ -5003,7 +5036,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JRuF+vXQ8MDykafv82rZ71QsCAYehIY4tIM1rzQ1650=
+			lIOS1UxJh0EHr/Cz+ZyjXwDYwGvyt6kvS6FlhTKH4MQ=
 			</data>
 		</dict>
 		<key>Headers/MBQuadWithSizeDetector.h</key>
@@ -5059,7 +5092,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lcLdFyhju46MllI9hgbaeeQnuyC7v9BXdIK0ee1Pl4c=
+			rOF6PBf4BbHP/SaPLNSoNBGrv0kNsp4wgGpkIffG7KE=
 			</data>
 		</dict>
 		<key>Headers/MBRecognizerCollection.h</key>
@@ -5195,6 +5228,13 @@
 			Pk+K7mMZH37GOfFKkU4vg2tY4YC06uO6UGvXDLkC8VE=
 			</data>
 		</dict>
+		<key>Headers/MBSignedPayload.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0Z7mLb4iA0ybjvC97c2X1Mrk8jbFLZPH9DRMcvjOGzs=
+			</data>
+		</dict>
 		<key>Headers/MBSimNumberRecognizer.h</key>
 		<dict>
 			<key>hash2</key>
@@ -5209,32 +5249,18 @@
 			O0BKyyctdIwFlL2Rr1sG7K0WZQ7SsNYx4Mxsf9IYhPg=
 			</data>
 		</dict>
-		<key>Headers/MBSingaporeChangiEmployeeIdRecognizer.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NKs/YkrksUQYHP9aZHk9X57iVxOcSW5qvNb/d7cghiE=
-			</data>
-		</dict>
-		<key>Headers/MBSingaporeChangiEmployeeIdRecognizerResult.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LFPIlogTKlr1KhE9YsTn1zyDB7hFDChBazGgYlZfLtI=
-			</data>
-		</dict>
 		<key>Headers/MBSingaporeCombinedRecognizer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5XyB44SNbtXReExvpnB/r4I8LrBkx911D4vFaJA0U1c=
+			g8QchbjSEXM6h2m4nPbtcD6AH5jswDF+6nNWdNPpaaQ=
 			</data>
 		</dict>
 		<key>Headers/MBSingaporeCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rkJFwxMbJST91jqeqTjiPY00hoxljmeJMVGAXNosVtA=
+			ay4IcRivyAE1w99ES1vr5aYi73LqzgvybQK/xHIvQFs=
 			</data>
 		</dict>
 		<key>Headers/MBSingaporeDlFrontRecognizer.h</key>
@@ -5283,14 +5309,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WeKCC5SuxANiZey+e/Pv18h05eEQ0Nkgo6OANN4EbX4=
+			/jaQhzsGsiISZC0rHZdj+UNzL4ZZG07YMMqt6iCeJQw=
 			</data>
 		</dict>
 		<key>Headers/MBSlovakiaCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ow7n6YsiQwD57gWAUmkmxcvRLXbIi3pOyZwjv60uebQ=
+			3Inwst3QR3IBIzsCmCaaA8+niS3mwDDsWlbZQJt3L4E=
 			</data>
 		</dict>
 		<key>Headers/MBSlovakiaIdBackRecognizer.h</key>
@@ -5325,14 +5351,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6eNhvYLEZwfi/+mxghAwETu3NfpkNO9N6pg4SvkkMAE=
+			++hrfA213i6+4AuCVEhqykmWiVLZGqA+4rLSjarlOvA=
 			</data>
 		</dict>
 		<key>Headers/MBSloveniaCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L3vGpYPpJS8MxggP1q4vD6Bd5wCn4POwv7M/tmAVLyg=
+			vNHAirtBDcscnKXoT3NWH8aU7WPXPzATA3OaesT8Rbk=
 			</data>
 		</dict>
 		<key>Headers/MBSloveniaIdBackRecognizer.h</key>
@@ -5566,18 +5592,25 @@
 			c0yeGAv4BXImU2mE3TdWCSbSqvbPJjSmMG/WjqsuoJc=
 			</data>
 		</dict>
+		<key>Headers/MBUploader.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FrYSUgbCH+alTq0lVWGwL+5vUEEFXcI9twHcvVTnpNA=
+			</data>
+		</dict>
 		<key>Headers/MBUsdlCombinedRecognizer.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qpt6b5fQ2qbcCViHG0HDurqc8Uhg+Zy5qbqRbAlYbss=
+			QNOTEBCOGSoqMjyPITa9xxMEoj+e7YHqFY0rp0of1io=
 			</data>
 		</dict>
 		<key>Headers/MBUsdlCombinedRecognizerResult.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cc0NsRZSn1AAKkilB8NmlVLXkB8l7HEOeaOJ3gialJY=
+			tQZ0ZEsfKOORrpkIQGfnbLfxfTY7yVTxtLOZOgIImtA=
 			</data>
 		</dict>
 		<key>Headers/MBUsdlKeys.h</key>
@@ -5599,6 +5632,13 @@
 			<key>hash2</key>
 			<data>
 			j7u+OTuPGwVLN8Iv4LQ8dd1j95mVe/G7e06J+K30/q4=
+			</data>
+		</dict>
+		<key>Headers/MBVehicleClassInfo.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ezNVmlm1fg5w/6z5WkTJNOqw4mQ7YI1Qz5UAVvY7GqU=
 			</data>
 		</dict>
 		<key>Headers/MBViewControllerFactory.h</key>
@@ -5654,175 +5694,231 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KqCcrhVdmJwBP5TzYa+kKbzyJyNFzX2N/AnfTX+nQpw=
+			ThYtEkiauLhgoWiH9STEetAjsZ6gMUBAgAqk8NYE3pM=
+			</data>
+		</dict>
+		<key>Headers/Microblink-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			712t9UHR0/CzR90aRHeXDMdTJSplcR5lMi+DA7R7PNs=
 			</data>
 		</dict>
 		<key>Headers/Microblink.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e0cZ1SVF0QAG5jMZhNZ7Ql0IX+GB3Lm7Rcf9yov8+HA=
+			aThqU5L5KCHVxu0Pz+aYUHCcBjzfVAumgFRSKDQiWwI=
 			</data>
 		</dict>
-		<key>Model_141118c0becd849c17db70ccc43c26d657598b76e2406e690660574e27ec2854.strop</key>
+		<key>Model_1118d9d674e23996f70c6416b2bf5a6ce6ef24a6ad2c92f0ddd1e198e5f05305.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K7pi6S/ihBsgd+0Fa0p2vi1+Elpcr3ZoJlX2e+7mjlk=
+			iVOpi3PCfLs3hsupz1Ofgjg6wmrFiglXunoVUixqfII=
 			</data>
 		</dict>
 		<key>Model_2880751121560047e6dc571bc8ff4683aeb863886f7c0789234594ceb1e23577.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O+aR7SKdzP8ErHCbf4yptKfgMxhcj03T1+HXaaCUL+A=
+			ggB0FSwPwaJDmk0WkJ1o1/fU9m5Yx4sGIwjQdtJeB4o=
 			</data>
 		</dict>
 		<key>Model_349432d66ef2b216155673b634f7d5c47795bed35719b954f726b5f0856740f3.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EZSNtHNZKLfcHmvCwmAZOBdgGTWgWacW86SrOamaKWE=
+			izSSNdeJlei3gtK6W612Yr9OpdNVlpbnDdSPUPzktYg=
 			</data>
 		</dict>
 		<key>Model_36d8e94f4cb46097bd6b7385f2aa91fcdee1a5fefeec59e56d1b9e82c94b00a7.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HxW3bl2ASmOFHNVbdeG8xBriinnAA5QTtT9E8xBewHI=
+			KCvFWtC15c8rLZIG65FNY8/Wk66xNK1ElGUImD8PrbA=
 			</data>
 		</dict>
 		<key>Model_3e80772d11f448d75ee36985f5520d306a18b43c76e173096ddb44d3196d0e05.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WGQ7IhYZcglBaOw2XrdUCG9nkjh8hN7hRw/GApWgXw8=
+			x/wD8CcKYe1pUQwOMmcBfRCWpA7DJh0fmIq9Gwt8qC0=
 			</data>
 		</dict>
 		<key>Model_406f8d5d972cf76a9241b35abbe5758890353b9b7daa922f732c4151ff6a0d9c.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LvJLHFx6n8zN13lhGhyv3MZRqU1DW5BscMNFxVFCjKE=
+			cM7kxjLVbz97tBZ84IcZ2/oEkkvQ392t7g4duMbZbcg=
 			</data>
 		</dict>
 		<key>Model_473ac5f5e256623c0a6b282698c1f1b033b9fb5359e6aa142e9fb4a4022afe4e.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D5DETQkOYXjDpgRUkoCdIhZ5B2GZ9Q8f0UV1HEKsp6I=
+			e0YUhaKMO8QZKWRplXzCHMeViSQou8JOZlIL17BMpFM=
 			</data>
 		</dict>
 		<key>Model_67100bc24967ea3e516430d3fccf4dea0000eac479bf1d77a908c00d1a2b63a9.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C+vqD3mUQn6DhJ+qVP5zenXvD6ktOW17fiKtgIADtlw=
-			</data>
-		</dict>
-		<key>Model_6fcfcf65470175835ad25f62811d30a830eae72672962cfcdcac88cda8b91b9d.strop</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			1hYmOiDtFpGuEJosqKMKzOPukv/AR7ZQXwmjxeh82iY=
+			eKi2gyYJHhThmObPBmnQoRCekpONj+EMMJLlsi1inIo=
 			</data>
 		</dict>
 		<key>Model_76731e0beb8c4be154467d2248a49530571c5b73a2eaef987361f75d578f576f.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+01/+4chTRAKGCa08+6U7iQTWtY0cShQfB2kWF5bvwM=
+			GRsVWd++2yn1KRlOWCHLOrgFrRvnk60Ns4Mg8m09E7U=
 			</data>
 		</dict>
-		<key>Model_9dc0335b6b55322b592e8be0b7e57216af00e3badcf78a69aea2543e5ff2c0e3.strop</key>
+		<key>Model_830c13896f96c1cb6d5cad725f44e6aae470f8672d640d20b3272ed4bb839699.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q0L9sKd5pTYmCL2y7m9c38t4bPwMBemK3fEbY9jVmo0=
+			9zyGtABs0QtYpgmDNhFlFSKqLwmC7kb8oV2WrAlPkcA=
 			</data>
 		</dict>
-		<key>Model_9ddda5959c7694e413899b6723956d42f8c89f80c1f673879440684bbb3b8dad.strop</key>
+		<key>Model_8322bc53f683fdb17f42124244cf6469a82e1c00ec8c43c5d7939ae25ee8c006.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LDH0EIReNquzD+Arb2luRNtByjNvybnTc5SWdyGkkQw=
+			y/kDmxe5UJ/uTVoi13/fGUgnc5vXPkBD5KvlnDsV5dw=
 			</data>
 		</dict>
-		<key>Model_a3df4ea01179026ff7879c27ceec653d59d062c20eaaed021e1000d18879f2a1.strop</key>
+		<key>Model_840bd7ad76dab96d6ebae4afab54c9608ffe35d9f35a92e46a45924d04fee981.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CVt4taxWAMrjLDczofsssZ2wMMkXXcQnmNgc457hBTU=
+			EcS/ch5JEEWJ0Pf3r8N6lXNjbbMeYEyuqj5Bj1kDheM=
+			</data>
+		</dict>
+		<key>Model_a5858807e9d6b351bdbe37cbb4f373b6b9dca41776e0f60a8457be92550632ed.strop</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OroidpnTJEF/o9VlbO/cLe4yJhlcN79EvyMbY5eJAoY=
 			</data>
 		</dict>
 		<key>Model_b452fd3cd4037080cfcb4c423dba5bc58c8ceafc28427fdf9c5778fb353f088e.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DTwCm4UYhNhg3Y6UVtPknKAZwHU+2VYab7ICCjWEj08=
+			nxQVv/fvxZO2X3FsbuvHAHwnHHweBEusE8LFxm/omAU=
+			</data>
+		</dict>
+		<key>Model_b9263312a9b623d1a3b75b643ccdcbc36aae52c278d721443468147c50e44583.strop</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kGYz4RlIDp+fcTbcdzkMLcgcmy4jtkdlUjBHMB3xnWY=
 			</data>
 		</dict>
 		<key>Model_cc1fab8df49d9a21de6c7b76ccf0dac40b17fcfb7073cc520eca073cbf8e33e9.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4qwZ08p3pqEAkoEOC16TtS1gCuSkWFTocMRSZ29iG+o=
+			YlV7HwEjSRnA+y4DbasjdyYBaaPGvMdlNfnckup4Dis=
 			</data>
 		</dict>
-		<key>Model_d41e83baa5b06261e15e7baefad0bc6a145491b58130921d410d658e6d9c70bf.strop</key>
+		<key>Model_d647a73c5ff6581d591761cdfe03eff14a830e302c92782c1d683291bea047d6.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rhZnjpPmHXoM9N/MYcF+BK8Qz1JLeYAzTZnHYea9hdI=
+			hwCjuku769MEFey+Xs7cC7jkgaZJKRaPc2ojYngkKxM=
 			</data>
 		</dict>
 		<key>Model_dac6fc7b40d6510f2b05716c9e63847e67e79e6664192eed937aed343c61403e.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			osS+EWajiUZISiRAIgvxggo+ajI865v1W1ZWDUX0oGw=
-			</data>
-		</dict>
-		<key>Model_e10bce9a414a7da1191868196799db37f21a56d11e9619e8db91127cd1881238.strop</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zntJwvj3eZ3PDbyydfBRNGkiKGX+euOvI6rW3lniooI=
-			</data>
-		</dict>
-		<key>Model_e2dda372088c13ba3741a0f13e7d33946d638f58b97e4cd886f0970eeccfde39.strop</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			og/yF550tYItQsgx8/bdnGbRTI+5ibdUdw+z3UhwNSQ=
+			+7lTcjaFDWJNeeHJ+4OR++UszCrRKB3AEACCzxKyOZk=
 			</data>
 		</dict>
 		<key>Model_e4f1f62f68ec44b71ecad3fb3f3b48fe3790beb5ab325611e17d63af06e9f644.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wn9xHRmRTo1Nc2V4ekaVio3XS/wkcfnJcc4IbhcNgFU=
+			x27MGSwSSbY0TkTRR7kyRzbhDiXTQjCfoh3Vk1cKvHE=
 			</data>
 		</dict>
-		<key>Model_f1bfb0da115c7d247dd44b6082e53cddf830058e3cf1ef88161e77a42584fb31.strop</key>
+		<key>Model_f132d1bd7614b1274fafb8a41ec6c047b84b2a43654ae2da5ddd78a2765601c6.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UfbwlwRR2rbaTuc1YiAU+brUoYXyPy7QfFt0TBVz+Us=
+			hHMfn5mwhbaRFGlmGB61BFSL3na4B/Yy7gijQvXDZAw=
 			</data>
 		</dict>
 		<key>Model_faf688599c7e261a2a7404730f69ed029115bb0d3e7a3657731d88e701720efe.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWaJYi34cVfjX9zJvCuZxbQ0NlTpgjwfUNfTvt64JvQ=
+			ZgfKf/SqqLKUscAniWu814O8eUl0q6iI/bcr/W3XEeA=
+			</data>
+		</dict>
+		<key>Modules/Microblink.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TaGFc9aZ+mk6C1CciLjKPBOloRbj6vEn1pXtgiRIJp4=
+			</data>
+		</dict>
+		<key>Modules/Microblink.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JrAGa82+uQz6L7HavcQkq3kcgAsMeQGhZNDWZO9bCMA=
+			</data>
+		</dict>
+		<key>Modules/Microblink.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			filN5UYqpAAdSJyKKxzR7+IzhgG/2R16Ru1YS6/S7yk=
+			</data>
+		</dict>
+		<key>Modules/Microblink.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sZu7AV23HvqIJvCjWVaZgDMd5OYnz1Qq2cV8zl77Hxo=
+			</data>
+		</dict>
+		<key>Modules/Microblink.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P7mtcdaRmc+mbAMfx6NSvi/+EO9n1c46rwnoOk2ZhR0=
+			</data>
+		</dict>
+		<key>Modules/Microblink.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+CGj1lM3+CEqlvqd9WfXMNZLqRyLqcWi1XHQNku3uSU=
+			</data>
+		</dict>
+		<key>Modules/Microblink.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+GYa2Nf/YGMZY6c7+TWDp4j7p6SMCADWziNHlpa5O2s=
+			</data>
+		</dict>
+		<key>Modules/Microblink.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rx2iUibKDVhpQhYkOCVedBp/7rLciFrH8Yfcj2PzsaU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			99uPh31XDIpAN76cnrWC3kN2lcgYHI9Fj0dQ/4RfZC8=
+			nBjOV36Cy25tm4S8MVusWlzAv4XkpOen2Vala/Eu5Bw=
 			</data>
 		</dict>
 		<key>No Camera-100.png</key>
@@ -5941,14 +6037,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FAkxeH8R7gTZzy/Jdh/rIIeneG+ohozXw5sRBBNSlSg=
+			JYk4i24NyDuz5zetcH0ixBjpUbWFrS8ivCC5/s95ewQ=
 			</data>
 		</dict>
 		<key>blinkcard_logo@2x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5HUMLi5HumIBy5ALUa4+tFnPdpRimf9Slfy+lkEVuOE=
+			zfM4KQ8ZeNBPTvOHZu/cClqOQurBrR2lv8zltO7Hi5c=
+			</data>
+		</dict>
+		<key>blinkcard_logo@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3d1PuLhdqTciqY7J/tBJuJcnLmaTSddjA8dXD40TGpQ=
+			</data>
+		</dict>
+		<key>card_templates.zzip</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XiZFfCxlJeszD2zql9BtJzWl4L8kfjvW9lE4Ks3g2Ec=
 			</data>
 		</dict>
 		<key>cbl-error.png</key>
@@ -6061,6 +6171,13 @@
 			<key>hash2</key>
 			<data>
 			Jfy+N3B9a9H04NvHAycAsQmdS4Kl+sIHcBM4NKVDHWA=
+			</data>
+		</dict>
+		<key>cert.der</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Kae4TmDCs0EdVpYpbEKlPgbhDnHJvxmwnzUH42rpYeo=
 			</data>
 		</dict>
 		<key>cirrus.png</key>
@@ -6823,42 +6940,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YIy5gH8uCUY/rg7LCkuz/sB5qiexiUi9fu8vEM0uTsE=
+			cMbmr1o6NtceSGS3BKwf8rLWZ2Yg4/2Cg/c4Wj+osH0=
 			</data>
 		</dict>
 		<key>model_eudl.zzip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fmSBgLl5NchdCYfbClbqtmKa81Ta9KwmZOLnuTRDglM=
+			D933yFpNtHKnXFMkP0BnzrpL+kzXbQWpq+Wg8wB6Ugw=
 			</data>
 		</dict>
 		<key>model_general_blink_ocr.zzip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zT65JLsuiLWYw61e6muaQkJPuX2rmBLr9qQ0/6fSPUw=
+			DFQ3C77B8mQYvXrG3WrLscB1UaedRRuTbJyFVWWFiFI=
 			</data>
 		</dict>
 		<key>model_malaysian.zzip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cni1PEcRgRGPsL5sKntaVWk5J3ngFVETD5O7rLevGBE=
+			YV+AfDAPxFdRaYwAMR1WgsLGD5bwWr2TxcBl2hTIT88=
 			</data>
 		</dict>
 		<key>model_micr.zzip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			18plCJCxuTvBLSvYChSAx/OlbfVtI/gte358GD4CZfc=
+			IogfpJxy7cFooRxlOFyYNHnlBsT6LfeoUe744Nu9DVk=
 			</data>
 		</dict>
 		<key>model_mrtd.zzip</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rz4aNSecKzKVuq/Fa0dhe6E/d9EoBahL7nEw3qJUvP8=
+			29dkJGm/zn1XsnFvfzBHQIieLcwVk4rTITQreOfCOrg=
 			</data>
 		</dict>
 		<key>morocco_id_confusions.zzip</key>
@@ -7027,13 +7144,6 @@
 			<key>hash2</key>
 			<data>
 			T5h+Zu4ETszNw/Ri9WpT2Qwr5y8runVKCohwBtFmUuU=
-			</data>
-		</dict>
-		<key>templates.zzip</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WoD6la24wSHsayG2QIH+n+uqFXm8hQhw2xE+vxqaSd8=
 			</data>
 		</dict>
 		<key>th.strings</key>

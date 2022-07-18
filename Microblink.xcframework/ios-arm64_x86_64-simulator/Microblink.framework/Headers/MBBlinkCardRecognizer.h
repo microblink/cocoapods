@@ -13,7 +13,6 @@
 #import "MBFullDocumentImage.h"
 #import "MBEncodeFullDocumentImage.h"
 #import "MBFullDocumentImageDpi.h"
-#import "MBDigitalSignature.h"
 #import "MBFullDocumentImageExtensionFactors.h"
 #import "MBBlinkCardAnonymizationSettings.h"
 
@@ -23,7 +22,7 @@ NS_ASSUME_NONNULL_BEGIN
  * Recognizer used for scanning credit/debit cards.
  */
 MB_CLASS_AVAILABLE_IOS(9.0) MB_FINAL
-@interface MBBlinkCardRecognizer : MBRecognizer <NSCopying, MBCombinedRecognizer, MBDigitalSignature, MBFullDocumentImage, MBEncodeFullDocumentImage, MBFullDocumentImageDpi, MBFullDocumentImageExtensionFactors>
+@interface MBBlinkCardRecognizer : MBRecognizer <NSCopying, MBCombinedRecognizer, MBFullDocumentImage, MBEncodeFullDocumentImage, MBFullDocumentImageDpi, MBFullDocumentImageExtensionFactors>
 
 MB_INIT
 
