@@ -8,8 +8,6 @@
 #import "MBRecognizerResult.h"
 #import "MBDateResult.h"
 
-#import "MBDigitalSignatureResult.h"
-
 #import "MBCombinedRecognizerResult.h"
 #import "MBCombinedFullDocumentImageResult.h"
 #import "MBEncodedCombinedFullDocumentImageResult.h"
@@ -23,7 +21,7 @@ NS_ASSUME_NONNULL_BEGIN
  * Class representing values obtained when scanning both front and back side of Czech ID.
  */
 MB_CLASS_AVAILABLE_IOS(8.0)
-@interface MBSingaporeCombinedRecognizerResult : MBRecognizerResult<NSCopying, MBCombinedRecognizerResult, MBDigitalSignatureResult, MBCombinedFullDocumentImageResult, MBEncodedCombinedFullDocumentImageResult, MBFaceImageResult, MBEncodedFaceImageResult>
+@interface MBSingaporeCombinedRecognizerResult : MBRecognizerResult<NSCopying, MBCombinedRecognizerResult, MBCombinedFullDocumentImageResult, MBEncodedCombinedFullDocumentImageResult, MBFaceImageResult, MBEncodedFaceImageResult>
 
 MB_INIT_UNAVAILABLE
 

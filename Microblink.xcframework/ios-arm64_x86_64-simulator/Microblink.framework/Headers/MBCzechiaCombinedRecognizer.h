@@ -9,7 +9,6 @@
 #import "MBCzechiaCombinedRecognizerResult.h"
 
 #import "MBCombinedRecognizer.h"
-#import "MBDigitalSignature.h"
 
 #import "MBGlareDetection.h"
 #import "MBFaceImage.h"
@@ -29,7 +28,7 @@ NS_ASSUME_NONNULL_BEGIN
 * Recognizer which can scan front and back side of Czechia national ID cards.
 */
 MB_CLASS_AVAILABLE_IOS(8.0) MB_CLASS_DEPRECATED("Use MBBlinkIdCombinedRecognizer.") MB_FINAL
-@interface MBCzechiaCombinedRecognizer : MBRecognizer<NSCopying, MBCombinedRecognizer, MBDigitalSignature, MBGlareDetection, MBFaceImage, MBEncodeFaceImage, MBFaceImageDpi, MBFullDocumentImage, MBEncodeFullDocumentImage, MBFullDocumentImageDpi, MBFullDocumentImageExtensionFactors, MBSignatureImage, MBSignatureImageDpi, MBEncodeSignatureImage>
+@interface MBCzechiaCombinedRecognizer : MBRecognizer<NSCopying, MBCombinedRecognizer, MBGlareDetection, MBFaceImage, MBEncodeFaceImage, MBFaceImageDpi, MBFullDocumentImage, MBEncodeFullDocumentImage, MBFullDocumentImageDpi, MBFullDocumentImageExtensionFactors, MBSignatureImage, MBSignatureImageDpi, MBEncodeSignatureImage>
 
 MB_INIT
 

@@ -9,7 +9,6 @@
 #import "MBDateResult.h"
 
 #import "MBCombinedRecognizerResult.h"
-#import "MBDigitalSignatureResult.h"
 
 #import "MBFaceImageResult.h"
 #import "MBEncodedFaceImageResult.h"
@@ -25,7 +24,7 @@ NS_ASSUME_NONNULL_BEGIN
  front side of German old ID card and front side of German Passport.
 */
 MB_CLASS_AVAILABLE_IOS(8.0)
-@interface MBGermanyCombinedRecognizerResult : MBRecognizerResult<NSCopying, MBCombinedRecognizerResult, MBDigitalSignatureResult, MBFaceImageResult, MBEncodedFaceImageResult, MBCombinedFullDocumentImageResult, MBEncodedCombinedFullDocumentImageResult, MBSignatureImageResult, MBEncodedSignatureImageResult>
+@interface MBGermanyCombinedRecognizerResult : MBRecognizerResult<NSCopying, MBCombinedRecognizerResult, MBFaceImageResult, MBEncodedFaceImageResult, MBCombinedFullDocumentImageResult, MBEncodedCombinedFullDocumentImageResult, MBSignatureImageResult, MBEncodedSignatureImageResult>
 
 MB_INIT_UNAVAILABLE
 

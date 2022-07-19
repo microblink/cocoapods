@@ -116,8 +116,6 @@
 #import "MBGermanyPassportRecognizerResult.h"
 #import "MBGermanyIdOldRecognizer.h"
 #import "MBGermanyIdOldRecognizerResult.h"
-#import "MBGermanyDlBackRecognizer.h"
-#import "MBGermanyDlBackRecognizerResult.h"
 #import "MBGermanyDlFrontRecognizer.h"
 #import "MBGermanyDlFrontRecognizerResult.h"
 
@@ -157,9 +155,11 @@
 #import "MBJordanCombinedRecognizer.h"
 #import "MBJordanCombinedRecognizerResult.h"
 
+#ifdef LIVENESS
 // Liveness
-//#import "MBLivenessRecognizer.h"
-//#import "MBLivenessRecognizerResult.h"
+#import "MBLivenessRecognizer.h"
+#import "MBLivenessRecognizerResult.h"
+#endif
 
 // Malaysia
 #import "MBMalaysiaMyKadBackRecognizer.h"
@@ -228,8 +228,6 @@
 #import "MBSingaporeCombinedRecognizerResult.h"
 #import "MBSingaporeDlFrontRecognizer.h"
 #import "MBSingaporeDlFrontRecognizerResult.h"
-#import "MBSingaporeChangiEmployeeIdRecognizer.h"
-#import "MBSingaporeChangiEmployeeIdRecognizerResult.h"
 
 // Slovakia
 #import "MBSlovakiaIdBackRecognizer.h"
@@ -296,6 +294,7 @@
 
 // Generic
 #import "MBDriverLicenseDetailedInfo.h"
+#import "MBVehicleClassInfo.h"
 #import "MBClassInfo.h"
 #import "MBClassInfoTypes.h"
 #import "MBImageAnalysisResult.h"

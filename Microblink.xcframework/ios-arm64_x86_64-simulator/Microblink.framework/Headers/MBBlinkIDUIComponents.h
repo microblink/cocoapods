@@ -13,7 +13,9 @@
 #import "MBDocumentOverlayViewControllerDelegate.h"
 #import "MBLegacyDocumentVerificationOverlayViewControllerDelegate.h"
 #import "MBBlinkIdOverlayViewControllerDelegate.h"
-//#import "MBLivenessOverlayViewControllerDelegate.h"
+#ifdef LIVENESS
+#import "MBLivenessOverlayViewControllerDelegate.h"
+#endif
 
 // Overlays
 #import "MBDocumentOverlayViewController.h"
@@ -23,8 +25,10 @@
 #import "MBBlinkIdOverlayViewController.h"
 #import "MBBlinkIdOverlaySettings.h"
 
-//#import "MBLivenessOverlayViewController.h"
-//#import "MBLivenessOverlaySettings.h"
+#ifdef LIVENESS
+#import "MBLivenessOverlayViewController.h"
+#import "MBLivenessOverlaySettings.h"
+#endif
 
 // Overlay subviews
 #import "MBDocumentSubview.h"

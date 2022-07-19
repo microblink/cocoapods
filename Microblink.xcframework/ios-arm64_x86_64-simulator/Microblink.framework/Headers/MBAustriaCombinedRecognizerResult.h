@@ -12,7 +12,6 @@
 
 #import "MBFaceImageResult.h"
 #import "MBSignatureImageResult.h"
-#import "MBDigitalSignatureResult.h"
 #import "MBCombinedFullDocumentImageResult.h"
 
 #import "MBEncodedFaceImageResult.h"
@@ -29,7 +28,7 @@ NS_ASSUME_NONNULL_BEGIN
  * Class representing values obtained when scanning both front and back side of Austria ID.
  */
 MB_CLASS_AVAILABLE_IOS(8.0)
-@interface MBAustriaCombinedRecognizerResult : MBRecognizerResult<NSCopying, MBCombinedRecognizerResult, MBFaceImageResult, MBCombinedFullDocumentImageResult, MBSignatureImageResult, MBDigitalSignatureResult, MBEncodedFaceImageResult, MBEncodedSignatureImageResult, MBEncodedCombinedFullDocumentImageResult>
+@interface MBAustriaCombinedRecognizerResult : MBRecognizerResult<NSCopying, MBCombinedRecognizerResult, MBFaceImageResult, MBCombinedFullDocumentImageResult, MBSignatureImageResult, MBEncodedFaceImageResult, MBEncodedSignatureImageResult, MBEncodedCombinedFullDocumentImageResult>
 
 MB_INIT_UNAVAILABLE
 
