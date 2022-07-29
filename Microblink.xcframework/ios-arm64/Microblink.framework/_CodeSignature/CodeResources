@@ -382,7 +382,7 @@
 		</data>
 		<key>Headers/MBClassInfoTypes.h</key>
 		<data>
-		2sZvaGN/v0sZKjBCrg9WffoP6Vg=
+		sqyU9mWNguEZ3Yz3TlVl3GDnMqE=
 		</data>
 		<key>Headers/MBColombiaDlFrontRecognizer.h</key>
 		<data>
@@ -1394,7 +1394,7 @@
 		</data>
 		<key>Headers/MBRecognizer.h</key>
 		<data>
-		bWd3lYDba7qKqADhzixg2+iISa0=
+		d00bz6kMzmeupAOKQvaaKvUz1Jw=
 		</data>
 		<key>Headers/MBRecognizerCollection.h</key>
 		<data>
@@ -1414,7 +1414,7 @@
 		</data>
 		<key>Headers/MBRecognizerRunnerViewController.h</key>
 		<data>
-		8ayDyOcG3f+Q6mwdtASclSKNU8I=
+		na8h2R4aeD52/SN3VZbpFGuEuYs=
 		</data>
 		<key>Headers/MBRecognizerRunnerViewControllerDelegate.h</key>
 		<data>
@@ -1750,95 +1750,95 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lCVI/+lvJPGOslyGKQ177tdEwS0=
+		UBy2CJjojyrQVaQzEmSmqxFZQYs=
 		</data>
 		<key>Model_1118d9d674e23996f70c6416b2bf5a6ce6ef24a6ad2c92f0ddd1e198e5f05305.strop</key>
 		<data>
-		7toYIVB4e+C6mp3G6SHw7oemcDs=
+		M0XivzjYYJT8WVK1Sa69zUL+H/g=
+		</data>
+		<key>Model_26abb1accd3147801c9070f367d68903d55fee884a3870d78f7053360da50e30.strop</key>
+		<data>
+		rosYB5WHjUDTyMu4KxZnpGU7A/U=
 		</data>
 		<key>Model_2880751121560047e6dc571bc8ff4683aeb863886f7c0789234594ceb1e23577.strop</key>
 		<data>
-		i4EYX3i4tzlywD6tUVlz+nq9vPg=
+		RgAU3Sf4B+gI6O1o4rr/gMtk6Sg=
 		</data>
 		<key>Model_349432d66ef2b216155673b634f7d5c47795bed35719b954f726b5f0856740f3.strop</key>
 		<data>
-		zUZ63GpheqqZBw3eS7VrA9ikqMc=
+		eFPNBRg0faul3BvYhIq8E8n34+Y=
 		</data>
 		<key>Model_36d8e94f4cb46097bd6b7385f2aa91fcdee1a5fefeec59e56d1b9e82c94b00a7.strop</key>
 		<data>
-		4Nzt0OTUBRPjEySbOmnc1QGzRss=
+		YgOdP8ZeG/xNtpsbPZTnRs9t77Y=
 		</data>
 		<key>Model_3e80772d11f448d75ee36985f5520d306a18b43c76e173096ddb44d3196d0e05.strop</key>
 		<data>
-		rNamnNGYnV2DB9J9WwBief4GTkU=
+		uutKvXas6ygU3Mcsn4NwyWPLqbE=
 		</data>
 		<key>Model_406f8d5d972cf76a9241b35abbe5758890353b9b7daa922f732c4151ff6a0d9c.strop</key>
 		<data>
-		Ewi5hNVav86DNaHkUsAG1sw0rp0=
+		9vn4CeH9P3NZREcfbKuQ283KgRQ=
 		</data>
 		<key>Model_473ac5f5e256623c0a6b282698c1f1b033b9fb5359e6aa142e9fb4a4022afe4e.strop</key>
 		<data>
-		Pgn8X3HkbTPp4scY7IF6G62TaDo=
+		CLA1ngAjyayZwtP5cjUKTzxKl7o=
 		</data>
 		<key>Model_67100bc24967ea3e516430d3fccf4dea0000eac479bf1d77a908c00d1a2b63a9.strop</key>
 		<data>
-		1L7XBMmFdevoZUJEt5CBF3TcoCo=
+		z/BI0Ueo0kRfY+gdCuJF71wWgZU=
 		</data>
 		<key>Model_76731e0beb8c4be154467d2248a49530571c5b73a2eaef987361f75d578f576f.strop</key>
 		<data>
-		4rYjwqXtPskoVWzEIEaZreQd1I8=
+		Q94D/O5kuguVdkT9rt6EfD9qQkA=
 		</data>
 		<key>Model_830c13896f96c1cb6d5cad725f44e6aae470f8672d640d20b3272ed4bb839699.strop</key>
 		<data>
-		ei7wQOf6XpdDmuL9XCZhHR2kRj4=
+		9WhGOG2QvGXcVC65jdlApyxE5BQ=
 		</data>
 		<key>Model_8322bc53f683fdb17f42124244cf6469a82e1c00ec8c43c5d7939ae25ee8c006.strop</key>
 		<data>
-		I/NI0meOKbMM/PFGXw1aJ5lpjPI=
+		Q8PwasGGYfp9ZLFBBFQTupbljSk=
 		</data>
-		<key>Model_840bd7ad76dab96d6ebae4afab54c9608ffe35d9f35a92e46a45924d04fee981.strop</key>
+		<key>Model_9728a773c1b4698cf671cb4a5babc846265c5f7ab0fe34b27cb15c6c50d2881b.strop</key>
 		<data>
-		3n+fxOdC1St1/qeE1iEcgkDztEA=
-		</data>
-		<key>Model_a5858807e9d6b351bdbe37cbb4f373b6b9dca41776e0f60a8457be92550632ed.strop</key>
-		<data>
-		sFj8azaAn/+hV9gw48RUCwS179o=
+		Gy+4/IOSOxhgrAdKTpGNjPO/v+U=
 		</data>
 		<key>Model_b452fd3cd4037080cfcb4c423dba5bc58c8ceafc28427fdf9c5778fb353f088e.strop</key>
 		<data>
-		FL5+AZrDnupfxEZuvTzCDJJ98go=
+		WIa6q13etDxuKh+zHpJoI4KkWHE=
 		</data>
 		<key>Model_b9263312a9b623d1a3b75b643ccdcbc36aae52c278d721443468147c50e44583.strop</key>
 		<data>
-		gOqhDzSTgZ8gNJKtD0YPuYLXM1Q=
+		ZwChfm3ghYpWD+PL0nwNV9tn9RU=
 		</data>
 		<key>Model_cc1fab8df49d9a21de6c7b76ccf0dac40b17fcfb7073cc520eca073cbf8e33e9.strop</key>
 		<data>
-		+m++YJry1UsodfxA815tv/E42Lk=
-		</data>
-		<key>Model_d647a73c5ff6581d591761cdfe03eff14a830e302c92782c1d683291bea047d6.strop</key>
-		<data>
-		SY+kfq1iLFO0U6ndQNuuFAdt1wU=
+		FEvLbFSyTpuozuzm4Cvo9ELo8/s=
 		</data>
 		<key>Model_dac6fc7b40d6510f2b05716c9e63847e67e79e6664192eed937aed343c61403e.strop</key>
 		<data>
-		96ZUFDeRvRI420vro9YqyK63pJs=
+		0DMNg8/uU08PPizhRHRCPHEuL4Y=
 		</data>
 		<key>Model_e4f1f62f68ec44b71ecad3fb3f3b48fe3790beb5ab325611e17d63af06e9f644.strop</key>
 		<data>
-		1WjLU4D0HgvjzavKTXgqDk1S7oE=
+		AopU3uh6z9jz4fDdMinNUPv8pZo=
+		</data>
+		<key>Model_ed586fd6ca47c8eebb513c4ffaaacc2c54e92162b145062d7022519fba0911de.strop</key>
+		<data>
+		fcjJJOaxLCE248l/O5tLOFQan9o=
 		</data>
 		<key>Model_f132d1bd7614b1274fafb8a41ec6c047b84b2a43654ae2da5ddd78a2765601c6.strop</key>
 		<data>
-		EEARMvGs1qwPiZKVyABDo9Z7OCs=
+		DiIA1FpG4JkCPpsoLImP0Ra52fQ=
 		</data>
 		<key>Model_faf688599c7e261a2a7404730f69ed029115bb0d3e7a3657731d88e701720efe.strop</key>
 		<data>
-		Oyd/Ey33SvhFo5pX11XU4/aF5iY=
+		xElE774Ngdj1nDzl8lT7vToQBqc=
 		</data>
 		<key>Modules/Microblink.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		4bA/N0L4LcDbWNVoiRGk7A2Xs1w=
+		f2+B1PVsKz0NY6SKntIyNyfvDBE=
 		</data>
 		<key>Modules/Microblink.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -1850,7 +1850,7 @@
 		</data>
 		<key>Modules/Microblink.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		V7tRKlqOOvtKERxu0VShhyMuYU4=
+		K5IK0paf5HabFfsJIEJ/cZu0fdI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -3305,7 +3305,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kDGM1SJk42SsS3kUMT1I3y2Hg9bPOB6g26OohWa75b0=
+			lvYL21L7l00N696DQBkGunuQAK3nK7I6bYVRpy9LgyE=
 			</data>
 		</dict>
 		<key>Headers/MBColombiaDlFrontRecognizer.h</key>
@@ -5076,7 +5076,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rOF6PBf4BbHP/SaPLNSoNBGrv0kNsp4wgGpkIffG7KE=
+			WsT/XFwFjKhoV6T+Ec4KpeCSrHoPgbPUO3+GN98Qa8Q=
 			</data>
 		</dict>
 		<key>Headers/MBRecognizerCollection.h</key>
@@ -5111,7 +5111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TBYfj9mtLthK/9gFzPztU580tiFkabRTEGlCINeUM5E=
+			fXO3gVr7bwUQzO8Kmo060P88ArXY5GStvV8C3yEfJAU=
 			</data>
 		</dict>
 		<key>Headers/MBRecognizerRunnerViewControllerDelegate.h</key>
@@ -5699,154 +5699,154 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fcfzAVznhArCakZ5DLutfinMkidwp4au4hWJKS+cXFo=
+			esopXsaso1k53DeNLMHKcp47RQfS8DEhvWYzmLX4nhU=
+			</data>
+		</dict>
+		<key>Model_26abb1accd3147801c9070f367d68903d55fee884a3870d78f7053360da50e30.strop</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JUGQcdNyjGbHdes9Nr3lJrBdKhEQPcGALwChqRS3ze0=
 			</data>
 		</dict>
 		<key>Model_2880751121560047e6dc571bc8ff4683aeb863886f7c0789234594ceb1e23577.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wfDurwHGW7c8L0sXFzFQ2LjkA7idEH4jeJMtJfMXIR8=
+			66FSI3wf3gjejX1bmG3G1UgzbE6j5y+dNNHwD7PmC+g=
 			</data>
 		</dict>
 		<key>Model_349432d66ef2b216155673b634f7d5c47795bed35719b954f726b5f0856740f3.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZPweKUhFTQppU7st2u+mz35kPkAfdsZoyjG3cTvKDzk=
+			SP0EwS2WcGr5sNe8YROic4SD81IpSyY+/rALGBfdiQc=
 			</data>
 		</dict>
 		<key>Model_36d8e94f4cb46097bd6b7385f2aa91fcdee1a5fefeec59e56d1b9e82c94b00a7.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EttI05ClyNLd4LikbqqlyIluFKvhdQWmrvoO0UOeS5g=
+			vRJ+qPD2q7wwgcH10jqzdw/bgfsaVDdnajfUrTDU8H8=
 			</data>
 		</dict>
 		<key>Model_3e80772d11f448d75ee36985f5520d306a18b43c76e173096ddb44d3196d0e05.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XV9e+Es8bAcoOKQ5Wa3jBg3pfZ4hBStfsBpiR7YKo+s=
+			hIKvHcaYc/KHl2vS4YCXPcS6MZ9hxZ5RCyqd+OD6kYc=
 			</data>
 		</dict>
 		<key>Model_406f8d5d972cf76a9241b35abbe5758890353b9b7daa922f732c4151ff6a0d9c.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zJC+q6A7BnUvrgBF4q/ZDQ382ql5UtVDdZxl8BgO7bo=
+			m3dOJbzjzp7HYWUihPgDejGV7QHt9dqBpToE+jjdCCg=
 			</data>
 		</dict>
 		<key>Model_473ac5f5e256623c0a6b282698c1f1b033b9fb5359e6aa142e9fb4a4022afe4e.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Soiqu4dcPgxqjs60j8kqcoU83nSu64BoSp2xGaiZ/mU=
+			ZTbarvAb/cDzJwYfGQDg7wlD9mJDmrG2YgPW6bz0lR4=
 			</data>
 		</dict>
 		<key>Model_67100bc24967ea3e516430d3fccf4dea0000eac479bf1d77a908c00d1a2b63a9.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CRS7ry67mJecbfrsaVJD6ufdUXR5KPAxHm2P5GGaLOY=
+			7QNqhvJXWnZ3pYKtm6TCbG3ohGCeizi0z4IpDTwMUMs=
 			</data>
 		</dict>
 		<key>Model_76731e0beb8c4be154467d2248a49530571c5b73a2eaef987361f75d578f576f.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lafoyaOK6AJIXbcToudIBj/yrDkyIgyJpczmM2SbqRo=
+			eCRsYbqf8kxpOVfjsXlPb+sCMkyMoWyJCIkhPk9xFjI=
 			</data>
 		</dict>
 		<key>Model_830c13896f96c1cb6d5cad725f44e6aae470f8672d640d20b3272ed4bb839699.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mGtKxrpne8Ppxg/aj4n519VO1z7GUEQ8YE6J5u9w8kM=
+			jKmYhCWdInCdQ32IwKeWFcZ6EWd1O8/RHb0jIkMdjnc=
 			</data>
 		</dict>
 		<key>Model_8322bc53f683fdb17f42124244cf6469a82e1c00ec8c43c5d7939ae25ee8c006.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sOltTBLNxgbExA6Zd+3wIE4Rmqtf6eHsK00PqLSw0gM=
+			4wb2lq2RI4njFF5fPRfuKvgmZ5wO80xGISltORFhLRU=
 			</data>
 		</dict>
-		<key>Model_840bd7ad76dab96d6ebae4afab54c9608ffe35d9f35a92e46a45924d04fee981.strop</key>
+		<key>Model_9728a773c1b4698cf671cb4a5babc846265c5f7ab0fe34b27cb15c6c50d2881b.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9uTzb2e27JyNKq+sYvtCHuLFha/ob0ngJ1WCXLHXrxE=
-			</data>
-		</dict>
-		<key>Model_a5858807e9d6b351bdbe37cbb4f373b6b9dca41776e0f60a8457be92550632ed.strop</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/6Am/LKhoIq8dKp22epfp0HdXYJ24ukbvpgKQlUklJo=
+			SDD13McZ1wzlae8PmBMOqhv23jR9ksi2dqxVx4raiUI=
 			</data>
 		</dict>
 		<key>Model_b452fd3cd4037080cfcb4c423dba5bc58c8ceafc28427fdf9c5778fb353f088e.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RMlKwhg4YJHycq/sWyYscXMyk+CNAPgmnzuqPfpH9ZA=
+			ks4vAfGH6AtIbwpaOTfVzHwYqm/1fcGYXklm+Bdla8A=
 			</data>
 		</dict>
 		<key>Model_b9263312a9b623d1a3b75b643ccdcbc36aae52c278d721443468147c50e44583.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fTrez2cAmXKHuDlkEFvJryFEShwJA77QLUcKPipGqrQ=
+			eFpZui/26Lny/l68LFhS52rWpr5aJQKfyrrFdi27LR4=
 			</data>
 		</dict>
 		<key>Model_cc1fab8df49d9a21de6c7b76ccf0dac40b17fcfb7073cc520eca073cbf8e33e9.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bumF8vUa1dB9LNvNh0IHVqJdvE8xRBKRRbge4RSZfh4=
-			</data>
-		</dict>
-		<key>Model_d647a73c5ff6581d591761cdfe03eff14a830e302c92782c1d683291bea047d6.strop</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lZssbsncLj/8mktdYEdPoy2+ciR/2cXj8qXL4pa5aRQ=
+			MwBI362+Bq03jJxijYtC8079n7LOipOgY49cywqWN2g=
 			</data>
 		</dict>
 		<key>Model_dac6fc7b40d6510f2b05716c9e63847e67e79e6664192eed937aed343c61403e.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4jpyo8JM5aK33YNVtvgrthbFDvUnbfi7JkmFg5QNL8A=
+			pJMYiqIrPkH2qvXnC7gwQ0noVy8XjN0oMURZ0Rs/P9U=
 			</data>
 		</dict>
 		<key>Model_e4f1f62f68ec44b71ecad3fb3f3b48fe3790beb5ab325611e17d63af06e9f644.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ezsVucQzI9tJ2wxYJ7kWIONuQb7zpmMnen3kxCKOuHQ=
+			3BHNEbmOGbsRJrzLqgvd0JktLWWNE9/C3nrOPwJPoQQ=
+			</data>
+		</dict>
+		<key>Model_ed586fd6ca47c8eebb513c4ffaaacc2c54e92162b145062d7022519fba0911de.strop</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a9lF3WC0cI8EQz/W0lcXEubi9ewzNIPysu3Zls6fc38=
 			</data>
 		</dict>
 		<key>Model_f132d1bd7614b1274fafb8a41ec6c047b84b2a43654ae2da5ddd78a2765601c6.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IJv9BqOnJcwhrXce5faZ7G75Al6Fzbx3XOuXrf2sSms=
+			esHbn9rNugAf5Ewg7aqPWIUDW/SVyTXrthizKapvdxo=
 			</data>
 		</dict>
 		<key>Model_faf688599c7e261a2a7404730f69ed029115bb0d3e7a3657731d88e701720efe.strop</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a5AUTlrOvCuwMspK6fOrDlF9AWwAQ1GZD3nNCuouhS8=
+			3bQxkJA6QlvN1ZLN6NETIIlqTWRkgqw/eHNlYnvYZ0s=
 			</data>
 		</dict>
 		<key>Modules/Microblink.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6q9mj6wwns87Rs7hL3hsHs6dzGa/eJAdk/GFftlwu6s=
+			468DgfUlO+LzIvH//ZzGgL+mpmDix/ebLYO6dSgr1OI=
 			</data>
 		</dict>
 		<key>Modules/Microblink.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -5867,7 +5867,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gY0SkgumfviyKdVC1bkX5BllksCUYUjyn0iU4gCum8w=
+			whOsIDGS086xDvAvtTpVWh/L88DXMfdWzsi0gga1DVs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

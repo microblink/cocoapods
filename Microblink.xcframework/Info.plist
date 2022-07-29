@@ -50,9 +50,9 @@
 	<key>CFBundlePackageType</key>
 	<string>XFWK</string>
 	<key>CFBundleShortVersionString</key>
-	<string>5.17.0</string>
+	<string>5.18.0</string>
 	<key>CFBundleVersion</key>
-	<string>5.17.0</string>
+	<string>5.18.0</string>
 	<key>XCFrameworkFormatVersion</key>
 	<string>1.0</string>
 </dict>
