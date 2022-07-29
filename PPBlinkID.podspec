@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   
   s.name        = "PPBlinkID"
-  s.version     = "5.17.0"
+  s.version     = "5.18.0"
   s.summary     = "A delightful component for barcode scanning"
   s.homepage    = "http://microblink.com"
   
@@ -20,14 +20,15 @@ Pod::Spec.new do |s|
   s.license     = { 
         :type => 'commercial',
         :text => <<-LICENSE
-                © 2013-2015 MicroBlink Ltd. All rights reserved.
+                © 2013-2022 MicroBlink Ltd. All rights reserved.
                 LICENSE
         }
 
   s.authors     = {
         "MicroBlink" => "info@microblink.com",
         "Jurica Cerovec" => "jurica.cerovec@microblink.com",
-        "Jura Skrlec" => "jura.skrlec@microblink.com"
+        "Jura Skrlec" => "jura.skrlec@microblink.com",
+        "Mijo Gracanin" => "mijo.gracanin@microblink.com"
   }
 
   s.source      = { 
