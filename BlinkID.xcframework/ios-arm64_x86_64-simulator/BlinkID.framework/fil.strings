@@ -14,8 +14,6 @@
 "blinkcard_edit_field_owner" = "Pangalan ng may-ari ng card";
 "blinkcard_edit_title" = "Impormasyon ng iyong card";
 "blinkcard_edit_toolbar_done" = "Tapos na";
-"blinkcard_overlay_camera_too_high_message" = "Ilapit pa";
-"blinkcard_overlay_camera_too_near_message" = "Ilayo pa";
 "blinkcard_overlay_edit_button" = "Mag-type na lang?";
 "blinkcard_overlay_first_side_scan_message" = "I-scan ang numero ng card";
 "blinkcard_overlay_identification_failed_message" = "Panatilihing ganap na nakikita ang card";
@@ -26,6 +24,13 @@
 "mb_action_hold_steady" = "Huwag gumalaw";
 "mb_action_searching_document" = "Hinahanap ang dokumento…";
 "mb_blink_card_glare" = "Tingnan kung may flashlight glare.\nDahan-dahang galawin ang iyong card para maiwasan ito.";
+"mb_blinkcard_introduction_dialog_message" = "Kadalasang 16 na digit ang numero ng card. Dapat itong naka-print o naka-emboss sa mga nakataas na numero sa buong card. Siguraduhing sapat na naiilawan ang card na iyon at nakikita ang lahat ng detalye.";
+"mb_blinkcard_introduction_dialog_title" = "I-scan muna ang numero ng card";
+"mb_blinkcard_onboarding_msg1" = "Kadalasang 16 na digit ang numero ng card, bagama't maaari itong magkaroon ng 12 hanggang 19 digit. Dapat itong naka-print o naka-emboss sa mga nakataas na numero sa buong card. Puwede itong nasa unahan o likuran ng iyong card.";
+"mb_blinkcard_onboarding_msg2" = "Siguraduhing hindi natatakpan ng iyong daliri ang mga bahagi ng card, pati na ang mga linya sa ilalim. Gayon rin, tingnan kung may mga hologram reflection na tumatakip sa mga field ng mga card.";
+"mb_blinkcard_onboarding_msg3" = "Iwasan ang direktang nakakasilaw na ilaw dahil maaari itong mag-reflect sa card at hindi mababasa ang mga bahagi ng card. Kung mo mabasa ang data sa card, hindi rin ito makikita ng camera.";
+"mb_blinkcard_onboarding_msg4" = "Panatilihing hindi gumagalaw ang telepono at card habang nag-i-scan. Maaaring magpalabo sa larawan at hindi mababasa ang data sa card kapag nagalaw ito.";
+"mb_blinkcard_onboarding_title1" = "Saan makikita ang numero ng card?";
 "mb_blinkid_back_instructions_barcode" = "I-scan ang barcode";
 "mb_blinkid_camera_flip_document" = "Baligtarin ang dokumento";
 "mb_blinkid_camera_high" = "Ilapit pa";

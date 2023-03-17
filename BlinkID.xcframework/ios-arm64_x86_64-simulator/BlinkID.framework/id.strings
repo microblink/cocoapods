@@ -14,8 +14,6 @@
 "blinkcard_edit_field_owner" = "Nama pemegang kartu";
 "blinkcard_edit_title" = "Informasi kartu Anda";
 "blinkcard_edit_toolbar_done" = "Selesai";
-"blinkcard_overlay_camera_too_high_message" = "Mohon dekatkan";
-"blinkcard_overlay_camera_too_near_message" = "Mohon jauhkan";
 "blinkcard_overlay_edit_button" = "Tetap ketik saja?";
 "blinkcard_overlay_first_side_scan_message" = "Pindai nomor kartu";
 "blinkcard_overlay_identification_failed_message" = "Kartu harus terlihat sepenuhnya";
@@ -26,6 +24,13 @@
 "mb_action_hold_steady" = "Jangan bergerak";
 "mb_action_searching_document" = "Mencari dokumen…";
 "mb_blink_card_glare" = "Awas lampu kilat silau.\nGerakkan kartu Anda dengan perlahan untuk menghindarinya.";
+"mb_blinkcard_introduction_dialog_message" = "Nomor kartu biasanya berupa angka 16 digit. Nomor itu mestinya dicetak atau diembos dengan angka timbul di kartu. Pastikan kartu cukup terang dan semua detail terlihat.";
+"mb_blinkcard_introduction_dialog_title" = "Pindai nomor kartu terlebih dahulu";
+"mb_blinkcard_onboarding_msg1" = "Nomor kartu biasanya berupa angka 16 digit, meski mungkin antara 12 dan 19 digit. Nomor itu mestinya dicetak atau diembos dengan angka timbul di kartu. Pastikan kartu cukup terang dan semua detail terlihat.";
+"mb_blinkcard_onboarding_msg2" = "Pastikan bagian kartu tidak tertutup jari, termasuk garis bawah. Perhatikan juga pantulan hologram yang melewati bidang kartu.";
+"mb_blinkcard_onboarding_msg3" = "Hindari cahaya silau yang langsung karena memantul dari kartu dan akibatnya bagian kartu tidak terbaca. Jika Anda tidak dapat membaca data pada kartu, data juga tidak akan terlihat oleh kamera.";
+"mb_blinkcard_onboarding_msg4" = "Usahakan ponsel dan kartu tetap diam saat memindai. Menggerakkan ponsel dapat mengaburkan gambar dan membuat data di kartu tidak dapat dibaca.";
+"mb_blinkcard_onboarding_title1" = "Di mana letak nomor kartu?";
 "mb_blinkid_back_instructions_barcode" = "Pindai kode batang";
 "mb_blinkid_camera_flip_document" = "Balik dokumen";
 "mb_blinkid_camera_high" = "Mohon dekatkan";

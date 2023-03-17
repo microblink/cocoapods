@@ -14,8 +14,6 @@
 "blinkcard_edit_field_owner" = "持卡人姓名";
 "blinkcard_edit_title" = "您的卡片信息";
 "blinkcard_edit_toolbar_done" = "完成";
-"blinkcard_overlay_camera_too_high_message" = "靠近一些";
-"blinkcard_overlay_camera_too_near_message" = "离远一些";
 "blinkcard_overlay_edit_button" = "手动输入？";
 "blinkcard_overlay_first_side_scan_message" = "扫描卡号";
 "blinkcard_overlay_identification_failed_message" = "保持卡片完全可见";
@@ -26,6 +24,13 @@
 "mb_action_hold_steady" = "持稳";
 "mb_action_searching_document" = "正在查找文件……";
 "mb_blink_card_glare" = "当心闪光灯眩光。\n请轻轻移动您的身份证件，避免产生眩光";
+"mb_blinkcard_introduction_dialog_message" = "卡号通常是 16 位数。卡号应该是卡中打印或凸印的数字。确保卡的光照良好，所有细节清晰可见。";
+"mb_blinkcard_introduction_dialog_title" = "首先扫描卡号";
+"mb_blinkcard_onboarding_msg1" = "卡号通常是 16 位数，不过也可能是 12 到 19 位数。卡号应该是卡中打印或凸印的数字。可能位于卡的正面或背面。";
+"mb_blinkcard_onboarding_msg2" = "确保您没有用手指遮盖卡的一部分，包括底部线条。此外，请留意卡的字段上的全息图反射。";
+"mb_blinkcard_onboarding_msg3" = "避免直接强光，因为它会从卡上反射，并可能使卡的一些部分不可读。如果您无法阅读卡上的数据，摄像头也无法识别。";
+"mb_blinkcard_onboarding_msg4" = "在扫描时尽量让手机和卡保持静止。移动任一项都可能让图像变模糊，使卡上的数据不可读。";
+"mb_blinkcard_onboarding_title1" = "卡号在哪里？";
 "mb_blinkid_back_instructions_barcode" = "扫描条形码";
 "mb_blinkid_camera_flip_document" = "给文件翻页";
 "mb_blinkid_camera_high" = "靠近一些";

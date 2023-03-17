@@ -14,8 +14,6 @@
 "blinkcard_edit_field_owner" = "Naam kaarthouder";
 "blinkcard_edit_title" = "Uw kaartgegevens";
 "blinkcard_edit_toolbar_done" = "Klaar";
-"blinkcard_overlay_camera_too_high_message" = "Beweeg dichterbij";
-"blinkcard_overlay_camera_too_near_message" = "Beweeg verder weg";
 "blinkcard_overlay_edit_button" = "U kunt ook typen";
 "blinkcard_overlay_first_side_scan_message" = "Scan het kaartnummer";
 "blinkcard_overlay_identification_failed_message" = "Houd de kaart volledig zichtbaar";
@@ -26,6 +24,13 @@
 "mb_action_hold_steady" = "Houd stil";
 "mb_action_searching_document" = "Op zoek naar een document…";
 "mb_blink_card_glare" = "Pas op voor schittering van de flitser.\nVerplaats uw kaart voorzichtig om dit te voorkomen.";
+"mb_blinkcard_introduction_dialog_message" = "Het kaartnummer bestaat in de regel uit 16 cijfers. Het nummer is ofwel gedrukt of in reliëf in verhoogde cijfers op de kaart aangebracht. Zorg ervoor dat de kaart goed wordt verlicht en dat alle details zichtbaar zijn.";
+"mb_blinkcard_introduction_dialog_title" = "Scan eerst het kaartnummer";
+"mb_blinkcard_onboarding_msg1" = "Het kaartnummer bestaat in de regel uit 16 cijfers, maar kan ook uit 12 tot 19 cijfers bestaan. Het nummer is ofwel gedrukt of in reliëf in verhoogde cijfers op de kaart aangebracht. Het nummer kan op de voor- of achterkant van uw kaart staan.";
+"mb_blinkcard_onboarding_msg2" = "Zorg ervoor dat u onderdelen van de kaart niet afdekt met een vinger, dus ook niet de onderste regels. Waak ook voor hologramreflecties op de kaartvelden.";
+"mb_blinkcard_onboarding_msg3" = "Vermijd direct fel licht, omdat dat vanaf de kaart weerspiegelt en delen van de kaart onleesbaar kan maken. Als u gegevens op de kaart niet kunt lezen, zijn ze voor de camera ook niet zichtbaar.";
+"mb_blinkcard_onboarding_msg4" = "Probeer de telefoon en de kaart tijdens het scannen stil te houden. Als u een van beide beweegt, kan de afbeelding wazig worden en kunnen gegevens op de kaart onleesbaar worden.";
+"mb_blinkcard_onboarding_title1" = "Waar staat het kaartnummer?";
 "mb_blinkid_back_instructions_barcode" = "Scan de barcode";
 "mb_blinkid_camera_flip_document" = "Draai het document om";
 "mb_blinkid_camera_high" = "Beweeg dichterbij";
