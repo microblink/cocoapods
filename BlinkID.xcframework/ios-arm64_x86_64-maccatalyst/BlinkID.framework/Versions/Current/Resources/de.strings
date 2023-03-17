@@ -14,8 +14,6 @@
 "blinkcard_edit_field_owner" = "Name des Karteninhabers";
 "blinkcard_edit_title" = "Ihre Karteninformationen";
 "blinkcard_edit_toolbar_done" = "Erledigt";
-"blinkcard_overlay_camera_too_high_message" = "Kommen Sie näher";
-"blinkcard_overlay_camera_too_near_message" = "Bewegen Sie sich weiter weg";
 "blinkcard_overlay_edit_button" = "Es stattdessen eintippen?";
 "blinkcard_overlay_first_side_scan_message" = "Scannen Sie die Kartennummer";
 "blinkcard_overlay_identification_failed_message" = "Achten Sie darauf, dass die Karte vollständig sichtbar bleibt";
@@ -26,6 +24,13 @@
 "mb_action_hold_steady" = "Stillhalten";
 "mb_action_searching_document" = "Auf der Suche nach einem Dokument…";
 "mb_blink_card_glare" = "Achten Sie auf die Blendung durch eine Taschenlampe.\nBewegen Sie Ihre Karte vorsichtig umher, um dies zu vermeiden.";
+"mb_blinkcard_introduction_dialog_message" = "Die Kartennummer besteht in der Regel aus einer 16-stelligen Zahl. Die Nummer sollte entweder aufgedruckt oder in erhabenen Ziffern auf der Karte eingeprägt sein. Versichern Sie sich, dass die Karte gut beleuchtet ist und alle Details sichtbar sind.";
+"mb_blinkcard_introduction_dialog_title" = "Scannen Sie zuerst die Kartennummer";
+"mb_blinkcard_onboarding_msg1" = "Die Kartennummer besteht normalerweise aus 16 Ziffern, kann aber auch zwischen 12 und 19 Ziffern umfassen. Die Nummer sollte entweder aufgedruckt oder in erhabenen Ziffern auf der Karte eingeprägt sein. Sie kann sich auf der Vorder- oder Rückseite Ihrer Karte befinden.";
+"mb_blinkcard_onboarding_msg2" = "Gehen Sie auf Nummer sicher, indem Sie Teile der Karte nicht mit dem Finger verdecken, insbesondere nicht die unteren Zeilen. Vermeiden Sie außerdem Spiegelungen von Hologrammen, die über die Felder der Karte hinausgehen.";
+"mb_blinkcard_onboarding_msg3" = "Meiden Sie direktes, grelles Licht, da dieses von der Karte reflektiert wird und so Teile der Karte unkenntlich machen kann. Wenn Sie keine Daten auf der Karte lesen können, sind diese auch für die Kamera nicht sichtbar.";
+"mb_blinkcard_onboarding_msg4" = "Versuchen Sie, das Telefon und die Karte während des Scanvorgangs ruhig zu halten. Jede Bewegung kann das Bild unscharf und die Daten auf der Karte unlesbar machen.";
+"mb_blinkcard_onboarding_title1" = "Wo finde ich die Kartennummer?";
 "mb_blinkid_back_instructions_barcode" = "Scannen Sie den Barcode";
 "mb_blinkid_camera_flip_document" = "Drehen Sie das Dokument um";
 "mb_blinkid_camera_high" = "Kommen Sie näher";

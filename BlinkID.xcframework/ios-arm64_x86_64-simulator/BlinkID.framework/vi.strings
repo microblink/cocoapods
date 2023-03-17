@@ -14,8 +14,6 @@
 "blinkcard_edit_field_owner" = "Tên chủ thẻ";
 "blinkcard_edit_title" = "Thông tin thẻ của bạn";
 "blinkcard_edit_toolbar_done" = "Hoàn tất";
-"blinkcard_overlay_camera_too_high_message" = "Di chuyển gần hơn";
-"blinkcard_overlay_camera_too_near_message" = "Di chuyển xa hơn";
 "blinkcard_overlay_edit_button" = "Nhập tay thay thế?";
 "blinkcard_overlay_first_side_scan_message" = "Quét số thẻ";
 "blinkcard_overlay_identification_failed_message" = "Giữ cho thẻ hiển thị toàn phần";
@@ -26,6 +24,13 @@
 "mb_action_hold_steady" = "Hãy giữ yên";
 "mb_action_searching_document" = "Đang tìm kiếm tài liệu…";
 "mb_blink_card_glare" = "Đề phòng ánh sáng của đèn flash.\nNhẹ nhàng di chuyển thẻ của bạn xung quanh để tránh nó.";
+"mb_blinkcard_introduction_dialog_message" = "Số thẻ thường là một số gồm 16 chữ số. Các số đó phải được in hoặc dập nổi bằng các số nổi trên thẻ. Đảm bảo rằng thẻ được chiếu sáng tốt và tất cả các chi tiết đều có thể nhìn thấy được.";
+"mb_blinkcard_introduction_dialog_title" = "Trước tiên hãy quét số thẻ";
+"mb_blinkcard_onboarding_msg1" = "Số thẻ thường là số có 16 chữ số, mặc dù có thể có từ 12 đến 19 chữ số. Các số đó phải được in hoặc dập nổi trên thẻ. Số này có thể ở mặt trước hoặc mặt sau của thẻ.";
+"mb_blinkcard_onboarding_msg2" = "Đảm bảo rằng bạn không dùng ngón tay che các phần của thẻ, kể cả các dòng dưới cùng. Ngoài ra, hãy để ý các phản xạ hình ba chiều đi qua các trường của thẻ.";
+"mb_blinkcard_onboarding_msg3" = "Tránh ánh sáng gay gắt trực tiếp vì thẻ sẽ phản sáng và có thể làm cho các phần của thẻ không đọc được. Nếu bạn không thể đọc dữ liệu trên thẻ, thì dữ liệu đó cũng sẽ không hiển thị với camera.";
+"mb_blinkcard_onboarding_msg4" = "Cố gắng giữ yên điện thoại và thẻ trong khi quét. Di chuyển có thể làm mờ hình ảnh hoặc khiến dữ liệu trên thẻ không thể đọc được.";
+"mb_blinkcard_onboarding_title1" = "Số là nằm ở đâu?";
 "mb_blinkid_back_instructions_barcode" = "Quét mã vạch";
 "mb_blinkid_camera_flip_document" = "Lật tài liệu";
 "mb_blinkid_camera_high" = "Di chuyển gần hơn";

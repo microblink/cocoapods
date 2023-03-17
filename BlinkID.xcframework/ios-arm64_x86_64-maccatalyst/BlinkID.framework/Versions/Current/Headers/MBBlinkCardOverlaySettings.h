@@ -62,6 +62,42 @@ MB_CLASS_AVAILABLE_IOS(13.0) MB_FINAL
  */
 @property(nonatomic, strong) MBBlinkCardEditFieldConfiguration *fieldConfiguration;
 
+/**
+* Instructions for the user to move the document closer.
+* Default: Move closer
+*/
+@property(nonatomic, strong) NSString *errorMoveCloser;
+
+/**
+* Instructions for the user to move the document farther.
+* Default: Move farther
+*/
+@property(nonatomic, strong) NSString *errorMoveFarther;
+
+/**
+* Instructions for the user to move the document from the edge.
+* Default: Move the document from the edge
+*/
+@property(nonatomic, strong) NSString *errorDocumentTooCloseToEdge;
+
+/**
+* Option to configure when the onboarding help tooltip will appear.
+* Default: 8.0
+*/
+@property(nonatomic, assign) NSTimeInterval onboardingButtonTooltipDelay;
+
+/**
+* Defines whether button for presenting onboarding screens will be present on screen.
+* Default: YES
+*/
+@property(nonatomic, assign) BOOL showOnboardingInfo;
+
+/**
+* Defines whether tutorial alert will be presented on appear.
+* Default: YES
+*/
+@property(nonatomic, assign) BOOL showIntroductionDialog;
+
 @end
 
 NS_ASSUME_NONNULL_END

@@ -14,8 +14,6 @@
 "blinkcard_edit_field_owner" = "ชื่อผู้ถือบัตร";
 "blinkcard_edit_title" = "ข้อมูลบัตรของคุณ";
 "blinkcard_edit_toolbar_done" = "เสร็จสิ้น";
-"blinkcard_overlay_camera_too_high_message" = "เลื่อนเข้าใกล้";
-"blinkcard_overlay_camera_too_near_message" = "เลื่อนออกห่าง";
 "blinkcard_overlay_edit_button" = "กรอกแทนหรือไม่";
 "blinkcard_overlay_first_side_scan_message" = "สแกนหมายเลขบัตร";
 "blinkcard_overlay_identification_failed_message" = "เก็บบัตรให้มองเห็นได้เต็มที่";
@@ -26,6 +24,13 @@
 "mb_action_hold_steady" = "ถือไว้นิ่ง ๆ ";
 "mb_action_searching_document" = "กำลังมองหาเอกสาร…";
 "mb_blink_card_glare" = "ระวังแสงจ้าจากไฟฉาย ค่อย ๆ ขยับบัตรไปเพื่อหลีกเลี่ยง";
+"mb_blinkcard_introduction_dialog_message" = "หมายเลขบัตรมักจะเป็นตัวเลข 16 หลัก อาจเป็นตัวเลขพิมพ์หรือปั๊มนูนพาดอยู่บนบัตร ตรวจสอบให้แน่ใจว่ามีแสงสว่างที่บัตรเพียงพอและเห็นรายละเอียดทั้งหมด";
+"mb_blinkcard_introduction_dialog_title" = "สแกนหมายเลขบัตรก่อน";
+"mb_blinkcard_onboarding_msg1" = "หมายเลขบัตรมักจะเป็นตัวเลข 16 หลัก แต่อาจยาวระหว่าง 12 ถึง 19 หลักได้ และเป็นตัวเลขพิมพ์หรือปั๊มนูนพาดอยู่บนบัตร โดยอาจอยู่หน้าหรือหลังบัตรก็ได้";
+"mb_blinkcard_onboarding_msg2" = "ตรวจสอบให้แน่ใจว่านิ้วของคุณไม่ได้บังส่วนใดของบัตร รวมถึงบรรทัดล่างสุด นอกจากนี้ ระวังแสงสะท้อนของโฮโลแกรมที่จะทับส่วนต่างๆ ของบัตรด้วย";
+"mb_blinkcard_onboarding_msg3" = "หลีกเลี่ยงแสงจ้าที่ส่องตรงๆ เพราะแสงสะท้อนจากบัตรและบัตรอ่านไม่ออกบางส่วนได้ หากคุณอ่านข้อมูลบนบัตรไม่ได้ กล้องก็จะมองไม่เห็นเช่นกัน";
+"mb_blinkcard_onboarding_msg4" = "พยายามถือโทรศัพท์และวางบัตรไว้นิ่งๆ ขณะสแกน การเคลื่อนไหวอาจทำให้ภาพพร่ามัวและทำให้ข้อมูลบนบัตรอ่านไม่ออก";
+"mb_blinkcard_onboarding_title1" = "หมายเลขบัตรอยู่ที่ไหน?";
 "mb_blinkid_back_instructions_barcode" = "สแกนบาร์โค้ด";
 "mb_blinkid_camera_flip_document" = "พลิกเอกสาร";
 "mb_blinkid_camera_high" = "เลื่อนเข้าใกล้";

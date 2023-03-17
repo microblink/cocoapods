@@ -14,8 +14,6 @@
 "blinkcard_edit_field_owner" = "Vlasnik kartice";
 "blinkcard_edit_title" = "Podaci o kartici";
 "blinkcard_edit_toolbar_done" = "Dalje";
-"blinkcard_overlay_camera_too_high_message" = "Približi dokument";
-"blinkcard_overlay_camera_too_near_message" = "Udalji dokument";
 "blinkcard_overlay_edit_button" = "Unesi ručno?";
 "blinkcard_overlay_first_side_scan_message" = "Skeniraj broj kartice";
 "blinkcard_overlay_identification_failed_message" = "Drži karticu u potpunosti vidljivim";
@@ -26,6 +24,13 @@
 "mb_action_hold_steady" = "Drži mirno";
 "mb_action_searching_document" = "Tražim dokument…";
 "mb_blink_card_glare" = "Smanji odsjaj bljeskalice laganim pomicanjem kartice.";
+"mb_blinkcard_introduction_dialog_message" = "Broj kartice je obično 16-znamenkasti broj. Trebao bi biti isprintan ili prikazan izdignutim brojevima na kartici. Bitno je da je kartica dobro osvijetljena i da su sve informacije vidljive.";
+"mb_blinkcard_introduction_dialog_title" = "Prvo skeniraj broj kartice";
+"mb_blinkcard_onboarding_msg1" = "Broj kartice je obično 16-znamenkasti broj, iako može sadržavati između 12 i 19 znamenki. Trebao bi biti isprintan ili prikazan izdignutim brojevima na kartici. Može se nalaziti na prednjoj ili na stražnjoj strani kartice.\n";
+"mb_blinkcard_onboarding_msg2" = "Pripazite kako držite karticu. Bitno je da prstima ne prekrivate površinu kartice i da refleksija holograma ne prekriva podatke.";
+"mb_blinkcard_onboarding_msg3" = "Izbjegavajte stavljanje kartice pod direktno svijetlo jer se ono reflektira od kartice i radi toga neki dijelovi mogu biti nečitljivi. Ako vi ne možete pročitati sve podatke s kartice niti kamera uređaja neće moći.";
+"mb_blinkcard_onboarding_msg4" = "Pokušajte za vrijeme skeniranja što mirnije držati telefon i karticu. Pomicanjem može doći do zamućenja slike zbog čega podaci postaju nečitljivi.";
+"mb_blinkcard_onboarding_title1" = "Gdje je broj kartice?";
 "mb_blinkid_back_instructions_barcode" = "Skeniraj barkod";
 "mb_blinkid_camera_flip_document" = "Okreni dokument";
 "mb_blinkid_camera_high" = "Približi dokument";

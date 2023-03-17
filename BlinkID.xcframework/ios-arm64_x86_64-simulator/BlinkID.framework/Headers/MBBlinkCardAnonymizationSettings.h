@@ -53,6 +53,13 @@ MB_INIT
  */
 @property(nonatomic, assign) MBBlinkCardAnonymizationMode ownerAnonymizationMode;
 
+/**
+ * If true, anonymization is applied on all fields of the image if extraction is uncertain.
+ *
+ * Default: NO
+ */
+@property(nonatomic, assign)  BOOL fallbackAnonymization;
+
 @end
 
 NS_ASSUME_NONNULL_END
