@@ -44,7 +44,9 @@ typedef NS_ENUM(NSInteger, MBFieldType) {
     MBFieldTypeResidentialStatus,
     MBFieldTypeRestrictions,
     MBFieldTypeSex,
-    MBFieldTypeVehicleClass
+    MBFieldTypeVehicleClass,
+    MBFieldTypeBloodType,
+    MBFieldTypeSponsor
 };
 
 #endif /* MBFieldType_h */
