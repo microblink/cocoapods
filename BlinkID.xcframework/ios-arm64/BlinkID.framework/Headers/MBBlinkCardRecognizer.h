@@ -15,6 +15,11 @@
 #import "MBFullDocumentImageDpi.h"
 #import "MBFullDocumentImageExtensionFactors.h"
 #import "MBBlinkCardAnonymizationSettings.h"
+#import "MBCheckResult.h"
+
+#import "MBLivenessStatus.h"
+
+@protocol MBBlinkCardRecognizerDelegate;
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -30,6 +35,11 @@ MB_INIT
  * Result of scanning Payment Card Front Recognizer
  */
 @property (nonatomic, strong, readonly) MBBlinkCardRecognizerResult *result;
+
+/**
+ * The object that acts as the delegate of the recognizer
+ */
+@property (nonatomic, nullable, weak) id<MBBlinkCardRecognizerDelegate> delegate;
 
 /**
  * Should extract the card owner information
@@ -81,6 +91,50 @@ MB_INIT
  * Default: See MBBlinkCardAnonymizationSettings for default settings
  */
 @property (nonatomic, strong) MBBlinkCardAnonymizationSettings *anonymizationSettings;
+
+/**
+ * Hand scale is calculated as a ratio between area of hand mask and document mask.
+ *
+ * Default: 0.15
+ */
+@property (nonatomic, assign) CGFloat handScaleThreshold;
+
+/**
+ * This parameter is used to adjust heuristics that eliminate cases when the hand is present.
+ *
+ * Default: 0.05
+ */
+@property (nonatomic, assign) CGFloat handDocumentOverlapThreshold;
+
+/**
+ * Screen analysis match level - higher if stricter.
+ *
+ * Default: Level5
+ */
+@property (nonatomic) MBMatchLevel screenAnalysisMatchLevel;
+
+/**
+ * Photocopy analysis match level - higher if stricter.
+ *
+ * Default: Level5
+ */
+@property (nonatomic) MBMatchLevel photocopyAnalysisMatchLevel;
+
+/**
+ * Whether invalid card number is accepted.
+ *
+ *Default: NO
+ */
+@property (nonatomic) BOOL allowInvalidCardNumber;
+
+@end
+
+@protocol MBBlinkCardRecognizerDelegate <NSObject>
+
+/**
+ * Called when liveness status is available
+*/
+- (void)livenessStatusCallback:(MBLivenessStatus)livenessStatus;
 
 @end
 

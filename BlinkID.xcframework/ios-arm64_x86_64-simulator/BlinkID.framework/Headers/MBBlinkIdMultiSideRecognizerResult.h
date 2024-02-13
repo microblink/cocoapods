@@ -274,9 +274,14 @@ MB_INIT_UNAVAILABLE
 @property (nonatomic, readonly, nullable) MBDataMatchResult *dataMatchResult;
 
 /**
- * The version of result.
+ * face image location from the document if enabled with `MBFaceImage returnFaceImage` property.
  */
-@property (nonatomic, readonly) NSInteger version;
+@property (nonatomic, readonly) CGRect faceImageLocation;
+
+/**
+ * side of document that face image is located on if enabled with `MBFaceImage returnFaceImage` property.
+ */
+@property (nonatomic, readonly) MBSide faceImageSide;
 
 @end
 
